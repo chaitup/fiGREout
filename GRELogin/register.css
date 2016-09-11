@@ -1,0 +1,21 @@
+
+*{
+margin:0px;
+padding:0px;
+}
+
+
+
+
+ 
+#Wrap{
+
+width:970px;
+margin:auto;
+margin-top:10px;
+border-right:1px solid #eee;
+border-bottom:1px solid #eee;
+border-radius:5px;
+font-family:verdana;
+font-size:13px;
+}

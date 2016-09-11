@@ -1,0 +1,120 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText>Out of frustration for the lack of production occurring in the office, the manager yelled at his employees to _____ their desks and begin working 
+<img src="images/back3.jpg"/></QText>
+<Option> maneuver </Option>
+<Option>abscond</Option>
+<Option correct = "1"> resume </Option>
+<Option>rebound</Option>
+<Option>revamp</Option>
+
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText> From the outset, the concept of freedom of the seas from the proprietary claims of nations was challenged by a contrary notion that of the ______________ of the oceans for reasons of national security and profit.</QText>
+
+<Option> Promotion </Option>
+<Option correct = "1"> Surveying </Option>
+<Option> Exploration </Option>
+<Option> Conservation </Option>
+<Option> Appropriation </Option>
+
+</Question>
+
+
+
+
+
+<Question>
+
+<QText>Out of frustration for the lack of production occurring in the office, the manager yelled at his employees to _____ their desks and begin working</QText>
+<Option> maneuver </Option>
+<Option >abscond</Option>
+<Option correct = "1"> resume </Option>
+<Option >rebound</Option>
+<Option >revamp</Option>
+
+</Question>
+
+
+
+
+
+<Question>
+
+<QText> The teachers jargon was too difficult to comprehend,thus, I went to the after school tutor and she explained the concepts to me in a more _______ form. </QText>
+<Option> belligerent</Option>
+<Option  correct = "1" >pellucid</Option>
+<Option>diffident</Option>
+<Option>collusive</Option>
+<Option >secretive</Option>
+</Question>
+
+
+
+		
+
+
+
+<Question>
+<QText>When Pam realized it was her son who stole her grandmothers broach, she seemed quite distraught. In a despondent state, she ______ him, but he didnt seem to care. </QText>
+<Option> pampered </Option>
+<Option>scourged</Option>
+<Option>praised</Option>
+<Option> reproached </Option>
+<Option correct = "1">inflamed</Option>
+
+</Question>
+	
+	
+	
+	
+
+<Question>
+
+<QText> The musicians played the accordions so loudly that always afterward they were windbroken, like ______ horses. </QText>
+<Option>spirited</Option>
+<Option correct = "1"> fuming</Option>
+<Option>piqued </Option>
+<Option> annoyed </Option>
+<Option> foundered </Option>
+</Question>
+
+
+
+
+</Quiz>
+
+
+

@@ -1,0 +1,97 @@
+﻿
+<html>
+	<head>
+		<title>Raphael.FreeTransform</title>
+
+		<meta name="description" content="Free transform plugin for Raphaël JS"/>
+
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/raphael.js"></script>
+		<script type="text/javascript" src="js/raphael.free_transform.js"></script>
+	
+
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+		<style type="text/css">
+		
+
+			#svgContainer {
+				height: 100%;
+				width: 100%;
+				background:green;
+				padding:0px;
+			}
+
+       .para{
+				display:inline-block;
+				border: 1px solid black;
+				width:25px;
+				margin:5px;
+				text-align:center;
+				background:#7b4;
+				color:white;
+				cursor:pointer;
+			}
+
+			
+			
+			
+		</style>
+	</head>
+	<body>
+		<div id="svgContainer"></div>
+<div id="Solved" style="background:pink;">
+
+</div>
+		<script type="text/javascript" src="js/UI.js">
+   
+
+			var elements = [];
+
+	window.onload= function()
+	{
+  
+	      UIinterface();
+	      for(i=1;i<10;i++)
+		    {
+	       document.getElementById('Solved').innerHTML += "<p class='para'>"+i+"</p>";
+            }
+
+	
+	}
+
+    R.rect(200, 200, 100, 100)
+        .attr('fill', 'blue')
+		.click(function(){
+		   
+	  var ft = R.freeTransform(this);
+		  ft.setOpts({ draw: [ 'bbox' ],attrs: { fill: "#7b4", stroke: "#7b4" },size:2});
+
+		   })
+		
+		
+		
+     var C =  R.circle(100, 100, 50)
+           .attr('fill', 'red')
+		   .click(function(){
+		  var ft = paper.freeTransform(this);
+		  ft.setOpts({ draw: [ 'bbox' ],attrs: { fill: "#fff", stroke: "#000" },size:3});
+		  
+		   });
+		
+		
+
+		
+		
+    /*  var ft =[];
+		
+			for ( var i in elements ){   ft = paper.freeTransform(elements[i], {}, print);
+			  
+			     ft.setOpts({ keepRatio: false ,draw: [ 'bbox' ],size: 3});
+	
+			
+                  }*/
+		</script>
+
+	</body>
+</html>

@@ -1,0 +1,99 @@
+<Quiz>
+
+<Question>
+
+<QText> dummy</QText>
+
+<Option correct = "1"> dummy</Option>
+<Option >dummy </Option>
+<Option> dummy</Option>
+<Option correct = "1">dummy</Option>
+<Option > dummy </Option>
+<Option> dummy</Option>
+</Question>
+
+
+<Question>
+<QText> Like Bela Bartok,Ruth Crawford not only brought a composers acumen to the notation of folk music ,she also had a marked________the task. this was clear in her agonizing over how far to try to represent the minute details of a performance in a writen text ,and this___________ makes her work a landmark in enthomusicology</QText>
+
+<Option correct = "1"> reverence for</Option>
+<Option > detachment from </Option>
+<Option> curiosity about</Option>
+
+<Option correct = "1">  fastidiousness </Option>
+<Option> didactism </Option>
+<Option> iconoclasm</Option>
+
+<Image src="Questiontype/QuantitativeComparisionImages/QuantitativeComparisionTwo.png"></Image>
+</Question>
+
+
+<Question>
+<QText> It is often a really difficult matter to decide the exact boundary lines between one period and another, for the new style shows its beginnings before the old one is passed, and the old style still appears during the early years of the new one. It is an (i)________ process and the years of transition are ones of great interest. As one period follows another it usually shows a reaction from the previous one; a somber period is followed by a gay one; the excess of ornament in one is followed by (ii)________ in the next. It is the same law that makes us want cake when we have had too much bread and butter. </QText>
+
+<Option correct = "1"> Overlapping</Option>
+<Option > 	Individual</Option>
+<Option> Consecutive</Option>
+
+
+<Option> Immoderation </Option>
+<Option> Exorbitance </Option>
+<Option correct = "1"> Restraint	</Option>
+
+<Image src="Questiontype/QuantitativeComparisionImages/fraction.jpg"></Image>
+</Question>
+	
+
+
+	
+	
+<Question>
+<QText> 
+By the late 18th Century, James the Vicious had earned a reputation as the most ruthless and merciless (i)______ in the Caribbean. He and his murderous crew were willing to plunder anything from a British freighter to a fishermans lowly (ii)______. </QText>
+<Option correct = "1"> 	buccaneer</Option>
+<Option > dreadnaught</Option>
+<Option > bandit</Option>
+
+<Option > yacht</Option>
+<Option > dirigible</Option>
+<Option correct = "1"> skiff</Option>
+</Question>
+
+	
+
+<Question>
+<QText> Despite being identical twins, Kate and Carrie were polar opposites in terms of personality. Kate was undisciplined, light-hearted, and (i)______ in her opinions; Carrie was highly organized, dour of mood, and (ii)______ in her beliefs. </QText>
+<Option correct = "1"> tractable</Option>
+<Option >thematic</Option>
+<Option >truant</Option>
+
+
+<Option correct = "1"> capricious</Option>
+<Option> capacious</Option>
+<Option> unfaltering</Option>
+</Question>
+
+
+
+
+<Question>
+<QText>Laura decided it was time for a new haircut. She told the hairstylist she wanted shorter bangs, and maybe a subtle (i)______ of red added to her blond hair. Yet as soon as the hairstylist started (ii)______ away with the scissors, Laura began to have second thoughts.  </QText>
+
+<Option correct = "1"> deluge</Option>
+<Option > dint</Option>
+<Option > truant</Option>
+
+
+<Option correct = "1"> 	snipping</Option>
+<Option> sniping</Option>
+<Option> snapping</Option>
+</Question>
+
+
+
+
+
+</Quiz>
+
+
+

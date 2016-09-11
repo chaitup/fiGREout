@@ -1,0 +1,1 @@
+varchar peopleliked column length 2000

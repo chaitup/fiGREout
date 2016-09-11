@@ -1,0 +1,503 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+
+<!-- QS  -->
+	
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> In a test a student got a mark of 35. His report card showed that he had scored 70 percent. What was the maximum mark on the test </QText>
+<Option correct='1'> 50 </Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> 25 per cent of 480 is equal to 15 per cent of what number?</QText>
+<Option correct='1'> 800 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> A typist can type 60 words per minute. He increases his speed by 20 per cent. How many words can he now type per hour ? </QText>
+<Option correct='1'> 72 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> If S is the sum of  5,8,3,2,x, what must be the value of x for x to equal 1/4 S ?</QText>
+<Option correct='1'> 6 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#Geometry#Polygons'> Rectangle R has length 20 and width 10, and square S has length 5. The area of S is what fraction of the area of R ? </QText>
+<Option correct='1'>  8 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText tag='#Arithmetic #Percent'>  A merchant made a profit of $7 on the sale of a sweater that cost themerchant $25. What is the profit expressed as a percent of the merchants cost?</QText>
+<Option correct='1'> 28</Option>
+</Question>
+
+		
+<Question>
+<QText   tag='#Geometry#Three-DimensinalFigures'> In the cuboid shown below, AB = 4, BC = 3, CD = 5 
+what is the surface area of the cuboid? 
+</QText>
+<Option correct='1'>94</Option>
+<Image src="Questiontype/GREQuestionimages/cuboidsurfacearea.png"></Image>
+</Question>
+		
+		
+		
+<Question>
+<QText tag='#Algebra#Applications'> Working alone at its constant rate, Mark paints k walls in 3 hours. Working alone at its constant rate, James paints k walls in 6 hours. How many hours does it take for Mark and James, working simultaneously at their respective constant rates, to paint k walls?</QText>
+<Option correct='1'> 2 </Option>
+</Question>
+
+
+
+		
+<Question>
+<QText   tag='#Algebra#SolvingLinearEquations'> 2 pens, 1 pencil costs 2.5 $ . 3 pens, 5 pencils cost 5.5$. What is the cost of 50 pens and 50 pencils. </QText>
+<Option correct='1'> 75 </Option>
+</Question>
+
+		
+<Question>
+<QText   tag='#Geometry#Polygons'>  The figure below represents a rectangular garden with a walkway around it. The garden is 6 meters long and 5 meters wide. The walkway is uniformly 3 meters wide, and its edges meet at right angles. What is the area of the walkway? </QText>
+<Option correct='1'>132</Option>
+<Image src="Questiontype/GREQuestionimages/walkway.png"></Image>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> A coach is selecting 11 players from a pool of 15 players for a cricket team. He has already selected 7 players for the team. In how many ways can the rest of the players be selected from the remaining pool of players?</QText>
+<Option correct='1'> 70 </Option>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> In a certain class of 156 students, 92 play soccer and 72 play chess. What is the greatest possible number of students that play both soccer and chess? </QText>
+<Option correct='1'> 8 </Option>
+</Question>
+
+
+
+<Question>
+<QText tag='#Arithmetic#Sequencesandseries'> a1, a2, a3, . . . , an, . . .
+In the sequence above, each term after the first term is equal to the preceding term plus the constant c. If a1+a3+a5=45, what is the value of a2+a4 ?</QText>
+<Option correct='1'> 30</Option>
+</Question>
+
+
+<Question>
+<QText tag='#Arithmetic#Sequencesandseries'> a1, a2, a3, . . . , an, . . .
+In the sequence above, each term after the first term is equal to the product of the preceding term and  the constant c. If a1*a3*a5=27, what is the value of a2*a4 ?</QText>
+<Option correct='1'> 9 </Option>
+</Question>
+
+
+<Question>
+<QText tag='#Algebra#Applications'> A family of 3 consumes 10 kgs of rice per 15 days. At the same average rate of rice consumption per person, how many days will a family of 5 take to consume the same amount of rice. </QText>
+<Option correct='1'> 9 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText tag='#Algebra#CoordinateGeometry'>In the xy-plane, the point with coordinates (-3,-4) is the center of circle C. The point with coordinates (-3, 5) lies inside C, and the point with coordinates (4,-4) lies outside C. If m is the radius of C and m is an integer, what is the value of m ? </QText>
+<Option correct='1'>  8 </Option>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#Probability'> Of the10 pens in a box, 2 have black ink and the rest blue ink. A students will select 2 pens simultaneously and at random from the box for an exam. What is the probability that neither of the pens selected use black ink</QText>
+<Option correct='1'> 45 </Option>
+</Question>
+
+
+
+<Question>
+<QText tag='#Arithmetic#Integers'> The average marks in Chemistry in a certain class of 50 students is 60. If only one error was made while entering the marks of a particular student a 100 instead of 10. What is the actual average of the class.? Write the answer to the nearest integer </QText>
+<Option correct='1'>58</Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#Geometry#LinesandAngles'> Rectangle R has length 20 and width 10, and square S has length 5. The area of S is what fraction of the area of R ? </QText>
+<Option correct='1'>  135 </Option>
+<Image src="Questiontype/GREQuestionimages/parallelangles.png"></Image>
+</Question>
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'> What is the length of a diagonal of a rectangle that has width 6 and perimeter 28?  </QText>
+<Option> 10 </Option>
+</Question>
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'> The average (arithmetic mean) of x and y is 20. If z = 5, what is the average of x, y,and z ?   </QText>
+<Option> 15 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText tag='#Algebra#Applications'> The total age of  Nik, Ian and Ronny is 66. What was their total age three years ago?</QText>
+<Option correct='1'> 57 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#Geometry#Circles'> Line T is a tangent to a the circle centered at O. If OA = 12, OB = 13 then what is the area of triangle OAB?</QText>
+<Option correct='1'>  30 </Option>
+<Image src="Questiontype/GREQuestionimages/TistheTangent.png"></Image>
+</Question>
+
+
+
+
+ 
+<Question>
+<QText   tag='#Algebra#SolvingLinearInequalities'> x and y are integers, x + y lessthan 13 , and x greater 9  What is the smallest possible value of x - y ? </QText>
+<Option correct='1'> 5 </Option>
+</Question>
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Ratios'> In a particular class, the total strength of boys and girls is 63. If the ratio of number of boys to ratio of number of girls is 4 to 5, how girls are present in the class? </QText>
+<Option correct='1'> 45 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Integers'> What is the sum of all the integers from -248 to 251, inclusive?  </QText>
+<Option correct='1'> 750 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'>  Andrew has 8 chocolates more than Justin. If Andrew gave two chocolates Nury and Justin bought 3 chocolates then how many more chocolates does Andrew have more than Justin? </QText>
+<Option correct='1'> 3 </Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> A firm pays a total of $600/hour to 48 employees. If 12 employees are paid at least $14/hour, 25 employees are paid at least $13/hour and 10 employees are paid at least $9/hour then, what is the maximum amount the last employee gets paid/ hour ? </QText>
+<Option correct='1'> 17 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Ratios'>  A water tank has sprung a leak and is losing water at a rate of 0.1 Liters per minute. How many liters of water is the water tank losing per hour? </QText>
+<Option correct='1'> 6 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Fractions'> David ran for 3/5 of the total distance and swam for 600 meters. What is the total distance David travelled in meters ? </QText>
+<Option  correct='1'>800</Option>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText tag='#Algebra#Functions'> If x is directly proportional to y and b = 9 when a = 6. What is the value of a when b = 12 </QText>
+<Option correct = "1"> 5 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag ='#Arithmetic#ExponentsandRoots'> What is the greatest prime factor of 2^65 minus 2^61   </QText>
+<Option correct = "1"> 5 </Option>
+</Question>
+
+
+
+<Question>
+<QText   tag ='#Algebra#Functions'> If minusx|x|= -9. What is the value of x?   </QText>
+<Option correct = "1"> -3 </Option>
+</Question>
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag ='#Algebra#Functions'> If f(x,y) = xy^3, and f(p,q) = 10. What is the value f (7p, 2q)?   </QText>
+<Option correct = "1"> 560 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText   tag ='#Algebra#Functions'> If f(x^2) = 2f(x) and f(2) = 3. What is the value of f(16)  </QText>
+<Option correct = "1"> 12 </Option>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Fractions'> 1/4th of all the spheres are painted yellow, and 2/5th of all the yellow spheres are hollow. What fraction of all the spheres are NOT yellow hollow spheres?  </QText>
+<Option  correct='1'> 19/20 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> If 30% in a class play soccer and 40% of them are girls.  If the percentage of girls in the class is 48%, what is the percentage of girls in the class that dont play soccer </QText>
+<Option correct='1'>75 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> If x is 10% of y then y is what percent of x? </QText>
+<Option correct='1'> 1000 </Option>
+</Question>
+
+
+<Question>
+<QText tag='#Arithmetic#Integers'> The sum of the squares of two positive integers is 160. The sum of the numbers is 16. What is the difference between the two integers. </QText>
+<Option correct='1'> 8 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'> What is the length of a diagonal of a rectangle that has width 6 and perimeter 28?  </QText>
+<Option> 10 </Option>
+</Question>
+
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'> The length of a rectangle is twice the width of the rectangle. If the perimeter of the rectangle is 18, what is the area of the rectangle?  </QText>
+<Option> 18</Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> George visited his grandparents for Christmas, who live 155miles away from him. He drove the first 75 miles/hour for 40 minutes and completed the travel in 2 hours 25 minutes, how much distance did he travel in the first 1 hour 15 minutes? </QText>
+<Option correct='1'> 95 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> In a certain clothing company, 4 identical machines can produce 2800 bottles per  hour. If the company decides to add 2 more machines of the same kind and upgrade all of them to produce 4500 bottles per hour together. What is the increase in capacity of each machine after the upgrade? </QText>
+<Option correct='1'> 50 </Option>
+</Question>
+
+
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#DataInterpretation'>  What is the average  of the mean of 3rd quartile  and mean of the 1st quartile of the set of data composed of integers from 31 to 74 inclusive?</QText>
+<Option correct='1'> 47 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#DataInterpretation'> Frequency	5	7	4	6	1
+                                               Value	    9	12	15	18	24
+What is the mode of this data set?</QText>
+<Option correct='1'> 12 </Option>
+</Question>
+
+
+
+
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Sequencesandseries'>If Tom earns $ 40,000 per year with an annual increment of 10% and Jerry earns $30,000 per year with an annual increment of 20%, how many years will it take for Jerry to earn more money than Tom per year? </QText>
+<Option correct='1'> 4  </Option>
+</Question>
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Sequencesandseries'> In a certain sequence, the term an is given by the formula an = an-1 + 2, where a1= 3. What is the sum of first 40 terms of this sequence? </QText>
+<Option correct='1'>1680 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Sequencesandseries'> The sum of all the multiples of 2 between 100 and 200 </QText>
+<Option correct='1'> 7350 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> If the water height in a tank is increased by 10%, it would be 12% less than the maximum possible height of water in the tank. If the maximum height of water in the tank is 10m, what is the initial height of water in the tank ? </QText>
+<Option correct='1'> 8 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> If a shopkeeper sells a book at $52 with a loss of 35%. What is the original price of the book? </QText>
+<Option correct='1'> 80</Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> An art show sells tickets at $10 per ticket, and the art show costs $1350 to the organizers. How many tickets should the arts show sell so that it can make a profit of $2.5 per ticket? </QText>
+<Option correct='1'> 180 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> A machine takes 2 minutes to warm up, 10 minutes to produce an item and 3 minutes to cool down. If the machine is started at 10 am and is shut down at 5pm, how many products did it produce in total?</QText>
+<Option correct='1'> 28</Option>
+</Question>
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> A machine takes 2 minutes to warm up, 10 minutes to produce an item and 3 minutes to cool down. If the machine is started at 10 am and is shut down at 5pm, how many products did it produce in total?</QText>
+<Option correct='1'> 28</Option>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'> Sam and Marks salary add up to $26/hour while Marks salary is $1 less than half of Sams salary. What is Sams salary per hour  ?</QText>
+<Option correct='1'> 18 </Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'>  If Stephanie has socks of 3 different colors Red, Blue and Green. If the ratio of Red socks to Green socks is 2:3 and the number of blue socks is 6 and are 2 less than the number of Red socks, what is the total number of socks she has ?  </QText>
+<Option correct='1'> 26 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'>  Jason travels by bus to college and walks the way home. The distance between his university and college is 2 miles and the bus takes 15 minutes to go to college from his house. If Jasons average speed for the roundtrip is 3.2 miles/hour, how much time does it take for Jason to walk home from college in minutes?  </QText>
+<Option correct='1'> 60 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#DataInterpretation'> What is the difference between the medians of second and third quartiles of Set S = { 3, 6, 9, 14, 17, 23, 27, 36, 45, 56, 78, 90)</QText>
+<Option correct='1'> 19 </Option>
+</Question>
+
+
+
+
+
+
+</Quiz>

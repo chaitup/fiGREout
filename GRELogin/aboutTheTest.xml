@@ -1,0 +1,64 @@
+<xml>
+
+
+
+<aboutTheTest>
+The GRE general test is meant to measure your overall academic ability and features question types that closely reflect the kind of thinking you'll do in graduate or business school.
+The GRE revised General Test is the only admissions test for graduate or business school
+With the GRE revised General Test, you decide which scores to send to schools.You can retake the test and then send only the scores you want schools to see.
+</aboutTheTest>
+
+<scores>
+For the quantitative and verbal reasoning assesments of the GRE revised General test, the scores range from 130 to 170 points. For the analytic writing section, scores range from 0.0 to 6.0, in half-point increments. There are two verbal and two math sections on the GRE revised General test. The first of both sections is not computer adaptive, but the difficulty of questions that you'll be given for the second section is dependent on how well you did on the first section. The essay section of the GRE is composed on the computer, but both writing tasks are graded by trained readers.
+</scores>
+
+
+
+
+
+
+
+<GREComputerAdaptiveTesting>
+
+The GRE revised general test is administered as a computer adaptive exam, but not all sections are adaptive. Each of the verbal and quantitative assessment portions of the exam has two parts. For both of these assessments, the first part is NOT computer adaptive, while the second is.
+
+The first of the two sections for the quantitative and verbal assessment portions of the GRE exam have questions that ETS has calculated will be answered correctly by approximately one-half of the people who take the test. Based on how well you do on the first section of the two assessment sections, you will be provided with question that are of appropriate difficulty on the second section.
+
+For example, if you answer all questions correctly on the first section of the verbal assessment, then the questions that you'll see on the second verbal section will be difficult. Likewise, if you answer incorrectly most of the questions on the first section of the quantitative assessment portion of the exam, then you'll be prompted with easier question on the second section of the quantitative assessment portion of the exam. Based on your performance on the first sections of the verbal and quantitative assessment portions, the computer will select question for the second section that it thinks you have approximately a 50% chance of answering correctly.
+
+Don’t worry about trying to figure out if the current question that you are trying to answer is easy or hard – just be sure to do your best. Even if you do know if the question is hard or easy, does it really matter? You have to answer the question that is presented to you, so it is irrelevant whether the question is difficult or easy.
+
+</GREComputerAdaptiveTesting>
+
+
+
+<!-- If 3x = 5y = 7z then the least possible value of x + y + z is ?
+A) 15, B) 59, C) 65, D) 71, E) 105
+
+
+ If the ratio of the ages of two friends Jack and James is in the ratio 2 : 3 and that James and Rick is 2 : 3 and the sum of their ages is 95, then how old is James?
+
+
+
+ A cubical block of metal weighs 4 pounds. How will another cube made of the same metal weigh if its sides are twice as long as of the first cube?
+
+
+
+In a class of 127 students 49 students play Soccer, 55 students play Tennis and 19 students play both Tennis and Soccer. How many students in the class play neither Soccer nor Tennis?
+
+
+ABCD is a square of side 3, and E and F are the mid points of sides AB and BC respectively. What is the area of the quadrilateral EBFD ?
+
+A. 2.25 B. 3 C. 4 D. 4.5 E. 6
+
+
+n is an integer chosen at random from the set {3, 5, 7, 9 } p is chosen at random from the set  {4, 6, 8, 10,12} What is the probability that n + p = 15 ? 
+A)3 / 4, B) 3/20 , C) 3/9, D) 3/8, E) 3/15
+
+
+
+In the figure above the square has two sides which are tangent to the circle. If the area of the circle is 4a²p, what is the area of the square?
+
+A. 2a² , B. 4a , C. 4a²,  D. 16a² , E. 64a
+ -->
+</xml>

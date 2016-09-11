@@ -1,0 +1,15 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(login|userpage|friends|statistics|settings|Securelogout)/?$ $1.php?%{QUERY_STRING} [L]
+AddType application/x-httpd-php .do
+
+RewriteRule Practice  userpage.php  [L,QSA]
+RewriteRule Stats  statistics.php  [L,QSA]
+RewriteRule ^UserAnswers/([A-Za-z0-9_]+)/?([A-Za-z0-9_]*)/?$   loadimages.php?type=$1&num=$2 [L,QSA]
+
+AddType image/svg+xml .svg .svgz
+AddEncoding x-gzip .svgz
+
+
+

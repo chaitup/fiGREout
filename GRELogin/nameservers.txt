@@ -1,0 +1,13 @@
+
+cloud30.cloudhostingnetwork.com
+cloud31.cloudhostingnetwork.com
+sns39.win.hostgator.com
+
+sns40.win.hostgator.com
+
+
+Database : flipsat_db
+
+User: flipsat_user 
+
+password : AiE.B-OwnPE6.

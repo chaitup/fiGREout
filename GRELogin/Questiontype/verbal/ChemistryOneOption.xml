@@ -1,0 +1,66 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+
+<Question>
+<QText> What percent of a anomers of D-glucose present in an equilibrium mixture with    a specific rotation is +52.6 degree? Given [a]a=+112.2 degree and [a]b = +18.7 degree </QText>
+<Option> 50% </Option>
+<Option> 64%</Option>
+<Option correct = "1">36% </Option>
+<Option> 63% </Option>
+</Question>
+
+
+
+<Question>
+<QText> 200 ml of a buffer solution A (0.5 M CH 3 COONa + 1M CH 3 COOH) is mixed with 
+         another buffer solution B (0.5 M NH 4 Cl + 1 M NH 4 OH). If K a (CH 3 COOH) = K b (NH 4 OH) = 1.8  x 10-5 , then the correct statement is 
+</QText>
+<Option>pH 7 </Option>
+<Option> pH  7  </Option>
+<Option correct = "1"> pH = 7      </Option>
+<Option> pH > 7  </Option>
+</Question>
+
+
+
+
+<Question>
+<QText>Hi </QText>
+<Image src="1.jpg"></Image>
+<Option>  </Option>
+<Option>  </Option>
+<Option>  </Option>
+<Option correct = "1"> </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText>Acetamide is</QText>
+<Option>basic </Option>
+<Option> acidic </Option>
+<Option correct = "1"> amphoteric </Option>
+<Option> none </Option>
+</Question>
+
+
+
+
+
+
+
+
+</Quiz>
+

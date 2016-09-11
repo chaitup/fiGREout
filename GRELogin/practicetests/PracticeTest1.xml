@@ -1,0 +1,465 @@
+<Quiz>
+
+<Question>
+
+<QText>dummy</QText>
+
+<Option> dummy</Option>
+<Option> dummy </Option>
+<Option> dummy</Option>
+<Option correct = "1"> dummy </Option>
+
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText tag='#Arithmetic#Integers'  type='multipleAnswer'>Which of the following integers are multiples of both 2 and 3 ? </QText>
+<Option  correct = "1"> 6</Option>
+<Option> 9</Option>
+<Option> 16 </Option>
+<Option  correct = "1"> 24</Option>
+<Option> 27 </Option>
+<Option correct = "1"> 36 </Option>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText tag='#Geometry#Circles' type='Comparision'>In the below diagram, the diameter of the circle is  8
+
+</QText>
+
+<Option> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the information given </Option>
+<Image src="Questiontype/QuantitativeComparisionImages/quadINcircle.png"></Image>
+<A>The area of quadrilateral ABCD.</A>
+<B>16.</B>
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText type='oneAnswer'>A certain jar contains 80 socks  26 white, 18 black, 14 orange, 12 red, and 10 green. If a sock is to be chosen at random, what is the probability that the jelly bean will be neither orange nor green? </QText>
+<Option> 0.4</Option>
+<Option> 0.5</Option>
+<Option> 0.6 </Option>
+<Option  correct = "1"> 0.7</Option>
+<Option> 0.8 </Option>
+</Question>
+
+		
+ 
+<Question>
+
+<QText tag='#Arithmetic#Integers' type='Comparision'> p, q, and r are three consecutive odd integers such that p lessthan q lessthan r</QText>
+
+<Option> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1" > The relationship cannot be determined from the information give </Option>
+<A>p + q  +1.</A>
+<B>q + r  -1.</B>
+</Question>
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#Applications' type='Comparision'>James spent $90 buying a used guitar and $30 repairing it. Then he sold the guitar for 35 percent more than the total amount she spent buying and repairing it </QText>
+
+<Option> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the information give </Option>
+<A>The price at which James sold the guitar.</A>
+<B>160$.</B>
+
+</Question>
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#Applications' type='Comparision'>Christine saves p% of her annual income in a savings bank account every year, where p is a constant. In 2011, she saved 15,000$ out of her 65,000$ annual income. </QText>
+
+<Option> Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the information give </Option>
+<A>Savings made by Christine in 2012 from an annual income of 75,000$ .</A>
+<B>17,500$.</B>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#SolvingLinearEquations' type='Comparision'>The function f is defined by f(x) =  root(25-x^2) for -5 lessthan x lessthan 5 </QText>
+
+<Option correct = "1"> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A>f(g(1)) </A>
+<B>g(f(1)) </B>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent' type='Entry'> In a test a student got a mark of 35. His report card showed that he had scored 70 percent. What was the maximum mark on the test</QText>
+<Option correct='1'> 50 </Option>
+</Question>
+
+
+
+<!--  -->
+<Question>
+<QText  tag='#Arithmetic#Percent' type='Entry'> 25 per cent of 480 is equal to 15 per cent of what number?</QText>
+<Option correct='1'> 800 </Option>
+</Question>
+
+<!--  -->
+
+
+<Question>
+<QText  tag='#Algebra#Applications' type='Entry'> A typist can type 60 words per minute. He increases his speed by 20 per cent. How many words can he now type per hour ?</QText>
+<Option correct='1'> 72 </Option>
+</Question>
+
+
+<!--  -->
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications' type='Entry'> If S is the sum of 5,8,3,2,x, what must be the value of x for x to equal 1/4 S ?</QText>
+<Option correct='1'> 6 </Option>
+</Question>
+
+<!--  -->
+
+
+
+
+<Question>
+<QText  tag='#Geometry #Polygons'  type='Entry'> Rectangle R has length 20 and width 10, and square S has length 5. The area of S is what fraction of the area of R ? </QText>
+<Option correct='1'>  8 </Option>
+</Question>
+
+
+
+<!--  -->
+
+<Question>
+<QText tag='#Arithmetic #Percent' type='Entry'>  A merchant made a profit of $7 on the sale of a sweater that cost themerchant $25. What is the profit expressed as a percent of the merchants cost?</QText>
+<Option correct='1'> 28</Option>
+</Question>
+
+<!--  -->
+		
+		
+		
+		
+<Question>
+<QText type='Entry'> 
+ Working alone at its constant rate, Mark paints k walls in 3 hours. Working alone at its constant rate, James paints k walls in 6 hours. How many hours does it take for Mark and James, working simultaneously at their respective constant rates, to paint k walls?</QText>
+<Option correct='1'> 2 </Option>
+</Question>
+
+
+
+<!--  -->
+
+
+		
+<Question type='Entry'>
+<QText> 
+2 pens, 1 pencil costs 2.5 $ . 3 pens, 5 pencils cost 5.5$. What is the cost of 50 pens and 50 pencils.
+ </QText>
+<Option correct='1'> 75 </Option>
+</Question>
+
+
+<Question>
+
+<QText type='oneAnswer'>A certain jar contains 80 socks  26 white, 18 black, 14 orange, 12 red, and 10 green. If a sock is to be chosen at random, what is the probability that the jelly bean will be neither orange nor green? </QText>
+<Option> 0.4</Option>
+<Option> 0.5</Option>
+<Option> 0.6 </Option>
+<Option  correct = "1"> 0.7</Option>
+<Option> 0.8 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText type='oneAnswer'> Which of the following numbers is farthest from the number 1 on the number line? </QText>
+
+<Option>  9 </Option>
+<Option>  5</Option>
+<Option correct = "1"> -9 </Option>
+<Option> -5 </Option>
+<Option> -1 </Option>
+
+</Question>
+
+
+
+<!--  -->
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Percent' type='oneAnswer'> A particular stock is valued at $40 per share. If the value of a share increases 50%, then decreases 50% and then increases 20%, what is the final value of a share?</QText>
+<Option> 48</Option>
+<Option  correct = "1" > 36</Option>
+<Option> 38</Option>
+<Option> 40 </Option>
+<Option> 44</Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#dataAnalysis#Probability' type='oneAnswer'> In how many ways can teams of 3 students be selected from a group of 7 students?</QText>
+<Option> 14</Option>
+<Option   > 21</Option>
+<Option> 28</Option>
+<Option correct = "1"> 35 </Option>
+<Option > 42</Option>
+</Question>
+	
+
+<Question>
+
+<QText  tag='#Algebra#Applications' type='oneAnswer'> If it takes Eric 4 hours to paint the ceiling of a building and it takes Mathew 8 hours to do the same job, how long would it take to do the job if both painters worked simultaneously ? </QText>
+<Option> 24/3</Option>
+<Option   > 18/3</Option>
+<Option> 12/3</Option>
+<Option correct = "1"> 8/3 </Option>
+<Option > 4/3</Option>
+</Question>
+
+
+<Question>
+
+<QText type='multipleAnswer'>Which of the following integers are multiples of both 2 and 3 ? </QText>
+<Option  correct = "1"> 6</Option>
+<Option> 9</Option>
+<Option> 16 </Option>
+<Option  correct = "1"> 24</Option>
+<Option> 27 </Option>
+<Option correct = "1"> 36 </Option>
+</Question>
+
+
+
+<Question>
+
+<QText type='multipleAnswer'>Which of the following integers are multiples of both 2 and 3 ? </QText>
+<Option  correct = "1"> 6</Option>
+<Option> 9</Option>
+<Option> 16 </Option>
+<Option  correct = "1"> 24</Option>
+<Option> 27 </Option>
+<Option correct = "1"> 36 </Option>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers' type='oneAnswer'> If a, b and c are odd integers, which of the following expressions must be an even integer ?</QText>
+<Option> 24/3</Option>
+<Option   > 18/3</Option>
+<Option> 12/3</Option>
+<Option correct = "1"> 8/3 </Option>
+<Option > 4/3</Option>
+</Question>
+
+
+
+
+
+<Question type='Entry'>
+<QText> 
+2 pens, 1 pencil costs 2.5 $ . 3 pens, 5 pencils cost 5.5$. What is the cost of 50 pens and 50 pencils.
+ </QText>
+<Option correct='1'> 75 </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#dataAnalysis#DataInterpretation' type='Comparision'>
+Fact 1: Half of all police are corrupt.
+  Fact 2: Half of all police are thieves.</QText>
+<Option > Quantity A is greater</Option>
+<Option  > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A>No. of honest police officers .</A>
+<B>No. of corrupt police officers who are thieves. </B>
+</Question>
+
+
+<!--  -->
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Fractions' type='Comparision'>'</QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A>Time to travel 75 miles at 40 miles per hour.</A>
+<B>Time to travel 95 miles at 45 miles per hour. </B>
+</Question>
+
+
+<!--  -->
+
+<Question>
+
+<QText  tag='#Algebra#Operations with Algebric Expressions' type='Comparision'>y^2 + z^2 = 20 and yz = 16 </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A>y^2 + 2yz + z^2 </A>
+<B>(y + z)^2 </B>
+</Question>
+
+
+
+<!--  -->
+<Question>
+
+<QText  tag='#Algebra#OperationswithAlgebricExpressions' type='Comparision'>The average of three numbers x, y and z is 150.</QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1" > The relationship cannot be determined from the given information</Option>
+<A> x + y</A>
+<B> x + z </B>
+</Question>
+
+
+<!--  -->
+<Question>
+
+<QText   tag='#Arithmetic#Fractions' type='Comparision'>A = (1/4)</QText>
+<Option  correct = "1" > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> A</A>
+<B> A^2 </B>
+</Question>
+
+
+
+
+<!-- April 8 by me 2 questions -->
+
+
+
+<Question type='Comparision'>
+
+<QText   tag='#Arithmetic#Ratios'> a,b,c,d are positive and a/3 + b/9 = c/2 +d/6 </QText>
+<Option > Quantity A is greater</Option>
+<Option  correct = "1" > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> 9c + 3d</A>
+<B> 6a +3b </B>
+</Question>
+
+
+
+<Question type='Comparision'>
+
+<QText   tag='#Arithmetic#Ratios'> k  = 1 + 1/3 + 1/9 +1/27 +1/81 + 1/243</QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option  > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> 3</A>
+<B> k </B>
+</Question>
+
+
+<!-- April 8 end 2 questions -->
+
+
+<!-- April 10 end 2 questions -->
+
+<Question>
+
+<QText   tag='#Arithmetic#Ratios' type='Comparision'>The average (arithmetic mean) of four numbers is 36</QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option  > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The sum of the same four numbers</A>
+<B> 140 </B>
+</Question>
+
+</Quiz>

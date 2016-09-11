@@ -1,0 +1,14 @@
+	  <form   action="process_login.php" method="post" name="login_form" style='background:#ffff;' >
+	  
+	  <img src='images/Akki.jpg' STYLE='MARGIN-LEFT:40PX;width:300px;height:100px;'></img>
+	  <span style='margin-left:100px;'>GRE &nbsp;&nbsp; |</span>
+	  <span>GMAT&nbsp; &nbsp;|</span>
+	  <span>SAT &nbsp;&nbsp;|</span>
+	  <span>ACT &nbsp;&nbsp;|</span>
+	  <span>PSAT &nbsp;&nbsp;</span>
+	  <input  class="signinbutton" type="button" value="Login" onclick="formhashLogin(this.form, this.form.password);" tabindex = 3  style='background:black;' />
+	  <input  class="logininput" type="password" name="password" id="password" value="Password" tabindex = 2 onFocus="if(this.value == 'Password') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Password';}" />
+	  
+	  <input  class="logininput" type="text" name="email" value="Email" tabindex = 1 AUTOCOMPLETE="OFF" onFocus="if(this.value == 'Email') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Email';}" />
+       
+      </form>

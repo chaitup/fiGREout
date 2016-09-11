@@ -1,0 +1,196 @@
+
+*{
+margin:0px;
+padding:0px;
+}
+
+@font-face
+{
+font-family:gothic;
+src: url('fonts/md_gothic11.ttf');
+     
+}
+
+body{
+
+
+
+}
+.enclosure{
+
+
+height:100px;
+margin-bottom:15px;
+background-color: #3b5998 ;
+padding-bottom:10px;
+
+
+}
+
+
+#mainNavigation{
+
+width: 960px;
+margin: 0 auto;
+text-shadow: none;
+height:100px;
+
+
+}
+
+
+#mainNavigation div
+
+{
+
+height:100px;display:inline-block;
+float:left;overflow:hidden;
+margin-left:20px;
+
+}
+
+#mainNavigation div h1
+{
+color:#666;font:60px 'Calibri' , Geneva, Arial, "Arial Narrow", Verdana, sans-serif;
+margin-top:20px;font-weight:normal;
+}
+
+
+#mainNavigation div h1 img
+{
+width:300px;
+height:80px;
+}
+
+
+#mainNavigation div ul
+{
+overflow:hidden;list-style-type:none;text-decoration:none;margin-top:20px;
+
+}
+
+
+
+#mainNavigation div ul li
+{
+
+float:left;font-weight:normal;margin-top:35px;
+
+}
+
+
+#mainNavigation div ul li a
+{
+
+text-decoration:none;
+color:#fff;
+font:12px Verdana; 
+}
+
+
+#mainNavigation div ul li span
+{
+
+color:#fff;
+}
+
+
+
+
+
+
+
+
+ #footer{
+  
+  width:100%;
+  margin:auto;
+  margin-top:40px;
+  border-top:1px solid #eee;
+  background:#000;
+  padding-top:100px;
+  border-top:10px solid #eee;
+  opacity:0.8;
+  
+  }  
+  
+  
+  #footer div{
+  
+  width:960px;
+  margin:auto;
+  padding-top:20px;
+  border-bottom:1px solid #fff;
+  padding-bottom:10px;
+  }
+  
+  #footer div a{
+  
+   margin-right:30px;
+   font-family:verdana;
+   font-size:13px;
+   color:#fff;
+   cursor:pointer;
+   
+  }
+  
+   #footer div :first-child{
+   
+
+   
+   }
+   
+   
+   .copyright{
+   
+   padding-top:30px;
+   width:960px;
+   margin:auto;
+   font-family:verdana;
+   font-size:12px;
+   color:#fff;
+   padding-bottom:30px;
+   }
+   
+
+
+
+#signout
+{
+
+float:right;
+display:inline-block;
+margin-right:10px;
+padding:3px;
+text-decoration:none;
+
+}
+
+#signout p
+{
+
+color:white;
+font:12px verdana;
+text-align:center;
+text-decoration:none;
+}
+
+
+
+
+#signout img
+{
+margin-left:5px;
+
+}
+
+
+#signout:hover {
+
+border : 2px solid white;
+cursor:pointer;
+border-radius:3px;
+}
+
+
+

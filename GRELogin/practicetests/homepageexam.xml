@@ -1,0 +1,270 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+
+
+
+
+
+
+<Question >
+<QText  tag='Dataanalysis'  correct = "2" > n is an integer chosen at random from the set {3, 5, 7, 9 } p is chosen at random from the set  {4, 6, 8, 10,12} What is the probability that n + p = 15 ? </QText>
+<Option> 3/4</Option>
+<Option > 3/20</Option>
+<Option> 3/9</Option>
+<Option> 3/8 </Option>
+<Option > 3/15</Option>
+</Question>
+
+
+
+<Question >
+<QText  tag='Dataanalysis'  correct = "2" > If there are 3 red balls and 3 green in a bag and if two balls are randomly drawn one after the other (better wording?). What is the probability of both the balls being red? </QText>
+<Option> 1/3</Option>
+<Option > 1/4</Option>
+<Option> 1/5</Option>
+<Option> 1/6 </Option>
+<Option > 3/10</Option>
+</Question>
+
+
+
+<Question >
+<QText  tag='Dataanalysis'  correct = "1" > In a set of half a million number, approximately  how many numbers will lie below 20 percentile ? </QText>
+<Option> 400000</Option>
+<Option > 200000</Option>
+<Option> 40000</Option>
+<Option>  20000 </Option>
+<Option > 20</Option>
+</Question>
+
+
+
+
+
+
+<Question >
+<QText  tag='Dataanalysis'  correct = "4" > Half the people on a bus get off at each stop after the first, and no one gets on after the first stop. If only one person gets off at stop number 6, how many people got on at the first stop? </QText>
+<Option> 6 </Option>
+<Option > 8 </Option>
+<Option> 12 </Option>
+<Option>  16  </Option>
+<Option > 32 </Option>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText   tag='Geometry' correct = "3"> In the figure below the square has two sides which are tangent to the circle. If the area of the circle is 4asuper2mathpi, what is the area of the square? </QText>
+<Option > 2asuper2 </Option>
+<Option  > 4a </Option>
+<Option > 4asuper2</Option>
+<Option > 16asuper2</Option>
+<Option > 64a </Option>
+<Image src='practicetests/Images/circlesquare.png'></Image>
+
+</Question>
+
+
+
+
+<Question>
+<QText   tag='Geometry' correct = "2"> Sum of the interior angles of a heptagon is </QText>
+<Option > 450 </Option>
+<Option > 720 </Option>
+<Option > 900</Option>
+<Option > 1080</Option>
+<Option > 1260</Option>
+</Question>
+
+ 
+
+
+
+<Question>
+<QText   tag='Geometry' correct = "1">  The length of a rectangle increases by 10% and the breadth by 20%. The percentage increase in area is  </QText>
+<Option > 16  </Option>
+<Option > 32 </Option>
+<Option > 25 </Option>
+<Option >  50 </Option>
+<Option > 200</Option>
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText   tag='Geometry' correct = "2"> In parallelogram ABCD, DE=3/4 DC. What is the ratio of area of parallelogram ABCD to area of triangle BEC. </QText>
+<Option > 3: 8 </Option>
+<Option > 1:2 </Option>
+<Option > 1:8 </Option>
+<Option > 8:3 </Option>
+<Option > 3:4  </Option>
+<Image src='practicetests/Images/parallelogram.png'></Image>
+
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag='Algebra' correct = "2" >The slope passing through a point (4,3) is 4/3. All of the following points could be on the line except </QText>
+<Option>  (7,7)   </Option>
+<Option> (13, 15) </Option>
+<Option> (-2,-5)</Option>
+<Option> (-5, -12)</Option>
+<Option> (10,12) </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText   tag='Algebra' correct = "3" > The cost, in dollars, of manufacturing x Laptops is is 8000+ 300x. The amount received when selling these x TVs is 500x dollars. What is the least number of TVs that must be manufactured and sold so that the amount received is at least equal to the manufacturing cost? </QText>
+<Option > 16 </Option>
+<Option > 20 </Option>
+<Option > 32</Option>
+<Option > 40</Option>
+<Option > 64 </Option>
+</Question>
+
+
+
+<Question >
+<QText tag='Algebra' correct = "4"> In a certain shop the cost of pens is $4 while the cost of pencils is $2. If Alex bought twice as many pencils as pens for a total of $56. How many pencils did he buy?</QText>
+<Option> 4</Option>
+<Option> 7 </Option>
+<Option> 8</Option>
+<Option> 14 </Option>
+<Option> 28 </Option>
+</Question>
+
+
+
+<Question >
+<QText tag='Algebra' correct = "4"> A wheel has a diameter of x inches and a second wheel has a diameter of y inches. The first wheel covers a distance of d feet in 100 revolutions. How many revolutions does the second wheel make in covering d feet?</QText>
+<Option> 100xy </Option>
+<Option> 100/xy </Option>
+<Option>  xy/100 </Option>
+<Option> 100y/x </Option>
+<Option> 100x/y</Option>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+Arithmetic -->
+
+
+<Question>
+<QText   tag='Arithmetic' correct = "2" > If p, q are positive integers then how many integers are larger than pq and smaller than p(q + 1) </QText>
+<Option > pq - 1 </Option>
+<Option > p - 1 </Option>
+<Option  > q - 1</Option>
+<Option  > p </Option>
+<Option > q  </Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='Arithmetic' correct = "4" > Jane loaned Jack $1,500 at an annual interest rate of 6%. After one year, how much will Jack owe Jane? </QText>
+<Option > $90   </Option>
+<Option > $1410 </Option>
+<Option  > $1500</Option>
+<Option  > $1506 </Option>
+<Option > $1590 </Option>
+</Question>
+
+
+<Question>
+
+<QText   tag='Arithmetic' correct = "3">  A particular coffee shop makes a special coffee with milk and water  in the ratio 3:1.  If they made 8 liters of coffee with milk and water in the ratio 1:1. Then how much more milk should be added to make the special coffee in the correct proportions ? </QText>
+<Option > 2</Option>
+<Option > 3 </Option>
+<Option  > 4</Option>
+<Option > 5</Option>
+<Option > 6 </Option>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='Arithmetic' correct = "2">  If t = 24 / (2super8 * 5super1super2) is expressed as a terminating decimal, how many zeros will it have between the decimal point and the first nonzero digit to the right of the decimal point? </QText>
+<Option > 7</Option>
+<Option > 8</Option>
+<Option > 9</Option>
+<Option > 12</Option>
+<Option > 13 </Option>
+</Question>
+
+
+
+
+
+
+<!--   
+  -->
+</Quiz>
+

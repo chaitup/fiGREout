@@ -1,0 +1,78 @@
+	   Largehandshape.freeT = R.freeTransform(g_masterDrawingBox.data("type", "sprite").click(function(){
+				   
+				   	         SelectedRaphaelItemOnTheStage = this;
+							
+						  	   		R.forEach(function (el) {
+                              if((el.type =="circle" || el.type =="rect" || el.type =="path" ) && el.data("type") == "sprite") {
+							   
+
+							           el.freeT.setOpts({draw: [ 'bbox'],attrs: { fill: "#fff", stroke: "#000","stroke-width":1 },size:0, drag:true});
+									   
+									   
+								        SelectedRaphaelItemOnTheStage.freeT.setOpts({draw: [ 'bbox'],attrs: { fill: "#fff", stroke: "#000","stroke-width":1 },size:3, drag:true});
+				  		       
+								  
+								
+							            }
+										
+										
+										
+		
+                                            });	
+	        
+				   
+				   
+				   
+				   
+				   })).setOpts({ draw: ['bbox'],attrs: { fill: "#eee", stroke: "#000" },size:3, drag:true});	 
+					
+					
+					                masterBackground.undrag();
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+												 
+         masterBackground.click(function(){
+		 
+	                  R.forEach(function (el) {
+                              if((el.type =="circle" || el.type =="rect" || el.type =="path" ) && el.data("type") == "sprite")       {
+							   
+
+							           el.freeT.setOpts({draw: [ 'bbox'],attrs: { fill: "#fff", stroke: "#000","stroke-width":1 },size:0, drag:true});
+				
+							
+				  		       
+								  
+								
+							            }
+										
+										
+										
+		
+                                            });	
+											
+		             
+		 
+		 
+		 });
+		 

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>MyGreClassRoom</title>
+<meta http-equiv="Content-Language" content="English" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss-articles/" />
+<script src="js/loadxmldoc.js">
+
+</script>
+</head>
+
+
+<body onload="InitMouseDown();">
+
+
+
+      <div id="mainnav">
+	   <h4>HOME</h4>
+	   <a href='questions.php'><h4>PRACTICE QUESTIONS</h4></a>
+      <a href='statistics.php'><h4>statistics</h4></a>
+	   <a href='logout.php'><h4>Sign Out</h4></a>
+     	<ul>  
+       </ul>
+     </div> 
+
+
+
+
+<div id="wrap">
+
+
+
+<div id="left">
+<img src = "images/anonymous.jpg">
+<div>
+<ul>
+<li id="Alist" onclick ="CreateTable();">LetterAforApple</li> 
+</ul>
+</div>
+</div>
+
+
+<div id="center">
+
+<div id="FirstSection">
+<h3 id="titleone"></h3>
+</div>
+
+<div id="SecondSection">
+<h3 id="titletwo"></h3>
+</div>
+
+<div id="ThirdSection">
+<h3 id="titlethree"></h3>
+</div>
+
+</div>
+
+
+
+
+
+<div id="right"> 
+<table id="Dummylist">
+<tr><th id="MainHead">Words</th></tr> 
+<tr><td>Organic Fruits</td></tr> 
+<tr><td>Contact Us</td></tr> 
+<tr><td>Sitemap</td></tr> 
+<tr><td>Home</td></tr> 
+<tr><td>Organic Fruits</td></tr> 
+<tr><td>Contact Us</td></tr> 
+<tr><td>Sitemap</td></tr> 
+</table>
+
+</div>
+
+
+
+
+
+<div id="footer">
+
+</div>
+
+</div>
+
+<script>
+
+
+
+
+
+    function InitMouseDown () {
+
+				// all browsers except IE before version 9
+                    var mouseclickEvent = document.createEvent ("MouseEvent");
+                     mouseclickEvent.initMouseEvent("click");		
+                    document.getElementById('Alist').dispatchEvent (mouseclickEvent);
+            
+				
+                    if (document.createEventObject)
+					{   // IE before version 9
+                        var mouseclickEvent = document.createEventObject (window.event);
+                       mouseclickEvent.button = 1;  // left button is down
+                      document.getElementById('Alist').fireEvent ("click", mouseclickEvent);
+                    }
+                
+        }
+
+</script>
+
+
+
+
+
+</body>
+</html>

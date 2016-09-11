@@ -1,0 +1,920 @@
+<Quiz>
+
+<Question>
+<QText>dummy</QText>
+<Option> dummy</Option>
+<Option> dummy </Option>
+<Option> dummy</Option>
+<Option correct = "1"> dummy </Option>
+</Question>
+
+		
+ 
+<Question>
+
+<QText tag='#Geometry#Circle'> The area of a circle </QText>
+
+<Option correct = "1"> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option  > The relationship cannot be determined from the information give </Option>
+<A> that has a chord of length 8.</A>
+<B> that has a diameter of 8.</B>
+</Question>
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#Functions'> f(x)= 2x;  g(y)= 3+y; </QText>
+
+<Option correct = "1"> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the information give </Option>
+<A>f(g(1)).</A>
+<B>g(f(1)).</B>
+
+</Question>
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#Functions'> If x = 2 and y = 4, then which is greater </QText>
+
+<Option> Quantity A is greater</Option>
+<Option correct = "1" > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the information give </Option>
+<A>|X| - |Y|</A>
+<B>|X - Y|</B>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#Probabilty'> No. of ways </QText>
+<Option correct = "1"> Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A> Two students can be selected to represent a class of 40 students. </A>
+<B> One student from 20 boys and one student from  20 girls be selected to represent a class of 40 students </B>
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#DataAnalysis#Probabilty'> A card is drawn from a well shuffled pack of cards</QText>
+
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A>  What is the probability that the drawn card is a Red king. </A>
+<B>  What is the probability that the drawn card is a jack or queen. </B>
+</Question>
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#SolvingLinearEquations'> 2x + y = 15 and x - 2y = 5 </QText>
+
+<Option correct = "1"> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option  > The relationship cannot be determined from the information give </Option>
+<A> x + y </A>
+<B> xy </B>
+</Question>
+
+
+<Question>
+
+<QText tag='#Algebra#Co-ordinateGeometry' > A(2, 2) and B(-1, -2) are two points in the xy plane.</QText>
+
+<Option correct = "1"> Quantity A is greater </Option>
+<Option> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the information given </Option>
+
+<A> Distance between points A and B..</A>
+<B> 4</B>
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#Geometry#Circles'> The circle with center O below has radius 6.</QText>
+<Option > Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<Image src="Questiontype/GREQuestionimages/radius6.png"></Image>
+<A> Length of arc AB </A>
+<B> Radius of circle O </B>
+</Question>
+
+
+
+<Question>
+
+<QText  tag='#DataAnalysis#Probabilty'>Fact 1: Half of all police are corrupt. Fact 2 : Half of all police are thieves. </QText>
+
+<Option > Quantity A is greater </Option>
+<Option > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> No. of honest police officers  </A>
+<B> No. of corrupt police officers who are thieves </B>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Fractions'> Time to travel </QText>
+
+<Option > Quantity A is greater</Option>
+<Option correct = "1" > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A> 75 miles at 40 miles per hour </A>
+<B> 95 miles at 45 miles per hour </B>
+</Question>
+
+<!--  -->
+
+
+<!-- 10 Questions frim 32 doc -->
+
+
+<Question>
+<QText  tag='#Algebra#SolvingQuadraticEquations'> ysuper2 + zsuper2 = 20 and yz = 16  </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option  > The relationship cannot be determined from the given information</Option>
+<A>  ysuper2 + 2yz + zsuper2  </A>
+<B> (y + z)super2 </B>
+</Question>
+
+
+<Question>
+
+<QText  tag='#Algebra#SolvingLinearEquations'> The average of three numbers x, y and z is 150 </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option  correct = "1"> The relationship cannot be determined from the given information</Option>
+<A>  x + y </A>
+<B>  x + z </B>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'>Given below</QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The least prime number greater than 31. </A>
+<B> The greatest prime number less than 39</B>
+</Question>
+
+
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Algebra#Applications'> y = 3xsuper2 + 5x + 2 </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> x </A>
+<B> y </B>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearInequalities'> x greaterthan 6  </QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> (2x+5)/4  </A>
+<B> x </B>
+</Question>
+
+
+
+
+<Question>
+<QText   tag ='#Arithmetic#ExponentsandRoots'> Given Below  </QText>
+<Option > Quantity A is greater </Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A>  3super2super4</A>
+<B>  (3super2super5 - 3super2super4)/2 </B>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Algebra#Applications'> Given Below  </QText>
+<Option correct = "1"> Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> xsuper2 + 4 </A>
+<B> 4x - 2 </B>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearInequalities'>  p greaterthan 2  </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> 4p + 3 </A>
+<B> 5p - 2 </B>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Percent'> James  spent $90 buying a used guitar and $30 repairing it. Then he sold the guitar for 35 percent more than the total amount he spent buying and repairing it. </QText>
+<Option correct = "1"> Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The price at which James sold the guitar </A>
+<B>  160$ </B>
+</Question>
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'> ABCD is a square with each  side of length 8.   </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> Area of shaded region </A>
+<B> 32 </B>
+<Image src="Questiontype/GREQuestionimages/areaoftriangleinsquare.png"></Image>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Percent'> Christine saves p% of her annual income in a savings bank account every year, where p is a constant. In 2011, she saved 15,000$ out of her 65,000$ annual income. </QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal </Option>
+<Option > The relationship cannot be determined from the given information </Option>
+<A> Savings made by Christine in 2012 from an annual income of 75,000$  </A>
+<B> 17,500$ </B>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Ratio'> x/y = -1 </QText>
+<Option > Quantity A is greater </Option>
+<Option> Quantity B is greater </Option>
+<Option > The two quantities are equal </Option>
+<Option  correct = "1"> The relationship cannot be determined from the given information </Option>
+<A> x </A>
+<B> y </B>
+</Question>
+
+
+
+
+
+<Question >
+<QText tag='#Arithmetic#Integers'> p, q, and r are three consecutive odd integers such that p lessthan q lessthan r. </QText>
+<Option > Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal </Option>
+<Option  > The relationship cannot be determined from the given information </Option>
+<A>  p + q + 1</A>
+<B>  q + r - 1 </B>
+</Question>
+
+
+
+
+<Question >
+<QText tag='#Algebra#CoordinateGeometry'> In the given xy plane</QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal </Option>
+<Option  > The relationship cannot be determined from the given information </Option>
+<A> slope of line p</A>
+<B> slope of line q </B>
+<Image src="Questiontype/GREQuestionimages/slopeofpandq.png"></Image>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> In the above diagram, the diameter of the circle is 8.   </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> The area of quadrilateral ABCD </A>
+<B> 16 </B>
+<Image src="Questiontype/GREQuestionimages/squareincircle.png"></Image>
+</Question>
+
+
+
+
+
+
+
+
+<Question >
+<QText tag='#Arithmetic#Integers'>  x, y and z are consecutive integers and xyz lessthan 0 </QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal </Option>
+<Option  > The relationship cannot be determined from the given information </Option>
+<A> z </A>
+<B> 0 </B>
+</Question>
+
+
+
+
+
+<Question >
+<QText tag='#Arithmetic#Fractions'> 1/3  4/5  6/7  2/9  3/13</QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal </Option>
+<Option  > The relationship cannot be determined from the given information </Option>
+<A> Smallest fraction given </A>
+<B> 3/13 </B>
+</Question>
+
+
+
+
+
+<Question >
+<QText tag='#Arithmetic#Fractions'> xsuper2ysuper3 lessthan 0 , xsuper3ysuper2 greaterthan 0</QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal </Option>
+<Option  > The relationship cannot be determined from the given information </Option>
+<A> x </A>
+<B> y </B>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='#Algebra#Applications'> a,b,c,d are positive and a/3 + b/9 = c/2 + d/6 </QText>
+<Option > Quantity A is greater</Option>
+<Option  correct = "1" > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> 9c + 3d</A>
+<B> 6a + 3b </B>
+</Question>
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Sequencesandseries'> k  = 1 + 1/3 + 1/9 +1/27 +1/81 + 1/243 </QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option  > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> 3</A>
+<B> k </B>
+</Question>
+
+
+
+<Question>
+
+<QText   tag='#DataAnalysis#NumericalMethodsforDescribingData'> The average (arithmetic mean) of four numbers is 36</QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option  > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The sum of the same four numbers</A>
+<B> 140 </B>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='#Geometry#Quadrilaterals'> In a Rectangle given below ABCD  AB = 2, BC = 4 </QText>
+<Option > Quantity A is greater</Option>
+<Option  correct = "1" > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A>  Area of triangle ADF </A>
+<B>  Area of triangle BCG </B>
+<Image src="Questiontype/GREQuestionimages/squareincircle.png"></Image>
+</Question>
+
+
+
+
+<Question>
+
+<QText   tag='#Geometry#Quadrilaterals'>In the figure below, ABCD is a parellogram.  </QText>
+<Option > Quantity A is greater</Option>
+<Option  correct = "1" > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<Image src="Questiontype/GREQuestionimages/paralllelogramarea.png"></Image>
+<A>  Area of parellogram ABCD</A>
+<B>  30 </B>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='#Algebra#Applications'> Given Below</QText>
+<Option > Quantity A is greater</Option>
+<Option   > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1" > The relationship cannot be determined from the given information</Option>
+<A> 4supernsuperplussuper2</A>
+<B> 5supern </B>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText   tag='#Geometry#Triangles'>A,B,C are three triangles. The Base and and height of triangle A are 25 % greater and 25% lesser than the base and height of triangle B. The Base and and height of triangle C are 20 % lesser and 25% greater than the base and height of triangle B. </QText>
+<Option > Quantity A is greater</Option>
+<Option  correct = "1" > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A>  Area of triangle A</A>
+<B>  Area of triangle C</B>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'> Set P consists of all positive integers less than 100 that are not equal to the square of an integer.</QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> Set of integers in set P. </A>
+<B> 90</B>
+</Question>
+
+
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Algebra#Applications'> Two runners A, B started at the same starting point O. A ran 2 miles north, 3 miles east and then 6 miles south . B ran 3 miles north and then 4 miles west </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> Final displacement of A from position O</A>
+<B> Final displacement of B from position O </B>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearInequalities'>  0 lessthan x lessthan y lessthan 1 </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> 1 - y  </A>
+<B> y - x </B>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText  tag='#DataAnalysis#Probabilty'> p is the probability that event E will occur, and s is the probability that event E will not occur</QText>
+
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option> The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> p + s </A>
+<B>  1  </B>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'> X is the set of all integers n that satisfy the inequality 3 lessequal |n| lessequal 8 </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The absolute value of the greatest integer in X </A>
+<B> The absolute value of the least integer in X </B>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Exponents'> pq = root(20) </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> psuper2 </A>
+<B> 20/qsuper2</B>
+</Question>
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Integers'> In a set of 32 positive integers, 16 of the integers are less than 5080. The rest are greater than 80. </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> The median of the 24 integers </A>
+<B> 80</B>
+</Question>
+
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Integers'> Given Below </QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> 4superminussuper1/5superminussuper1 </A>
+<B> 4/5</B>
+</Question>
+
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'>Given Below figure</QText>
+<Option correct = "1" > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> Area of triangle ABC</A>
+<B> Area of triangle ACD </B>
+<Image src="Questiontype/GREQuestionimages/areaoftriangles.png"></Image>
+</Question>
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'>Given Below figure</QText>
+<Option  > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> Perimeter of triangle ABC</A>
+<B> perimeter of triangle BCD </B>
+<Image src="Questiontype/GREQuestionimages/areaoftriangles.png"></Image>
+</Question>
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'> Given below </QText>
+<Option correct = "1"  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The sum of the odd integers from 1 to 99  </A>
+<B> The sum of the even integers from 2 to 98 </B>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'>  n and m are positive integers 3supern = 27superm</QText>
+<Option correct = "1"  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> n/m </A>
+<B> 1/3 </B>
+</Question>
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Exponents'> pq = root(20) </QText>
+<Option  > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> 960super1super0super0super0 </A>
+<B> 10^super3super0super0super0</B>
+</Question>
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> Set A consists of 120 people who drink alcohol. Set B consists of 90 people who drink coo drinks. The number of people who are in both sets A and B is 20 </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The total number of people in set A or Set B or both in Set A and Set B</A>
+<B> 190</B>
+</Question>
+
+
+
+
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#SolvingLinearEquations'> (x+2)(y-5) =0</QText>
+
+<Option > Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option  correct = "1"> The relationship cannot be determined from the information give </Option>
+<A> xy </A>
+<B> -10 </B>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Percent'> George used $240 to buy a new bicycle. This amount was 15 percent of his monthly salary. </QText>
+<Option > Quantity A is greater</Option>
+<Option correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> The amount of money from his monthly salary that George has not used to but a bicycle i</A>
+<B>  1750$ </B>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> Set s consists of 10 objects. </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1" > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A> no. of subsets of s that consists 2 objects.</A>
+<B> no. of subsets of s that consists 8 objects.</B>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#Probabilty'> If two fair dice are rolled,</QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A> The Probability of getting the sum  divisible by 5 </A>
+<B> The Probability of getting the sum  divisible by 6 </B>
+</Question>
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Realnumbers'>  p lessthan q lessthan 0 </QText>
+
+<Option > Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option  correct = "1" > The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A> p + q </A>
+<B> pq </B>
+</Question>
+
+
+<Question>
+<QText tag='#Geometry#Circle'> O is the center of the circle.  </QText>
+<Option > Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option  > The relationship cannot be determined from the information give </Option>
+<A> x.</A>
+<B> 15.</B>
+<Image src="Questiontype/GREQuestionimages/xand15.png"></Image>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> In a particular musical play, the number of girls and the number of boys are in the ratio of 3:2. If two girls were replaced with two boys, the ratio of girls to boys  would become 1:1 </QText>
+
+<Option correct = "1"> Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option  > The relationship cannot be determined from the information give </Option>
+<A> The no. of boys in the original musical play.</A>
+<B> 4.</B>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText  tag='#Arithmetic#Fractions'> Given Below  </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option  correct = "1"> The two quantities are equal</Option>
+<Option> The relationship cannot be determined from the given information</Option>
+<A> 1/5 of 5 </A>
+<B> 1/7 of 7 </B>
+</Question>
+
+<Question>
+<QText   tag='#Algebra#Applications'> y = 3xsuper2 + 5x + 2 </QText>
+<Option  > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option  > The two quantities are equal</Option>
+<Option correct = "1"> The relationship cannot be determined from the given information</Option>
+<A> (x^5)2  </A>
+<B> 5x^2 </B>
+</Question>
+
+
+
+<Question>
+
+<QText   tag='#DataAnalysis#NumericalMethodsforDescribingData'> The average (arithmetic mean) of four numbers is 36</QText>
+<Option  > Quantity A is greater</Option>
+<Option  correct = "1"> Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option > The relationship cannot be determined from the given information</Option>
+<A>  The median of 26, 56, 69, 93, 40</A>
+<B>  The median of 12, 65 ,75 ,90 ,38 ,55 </B>
+</Question>
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearInequalities'> 5 lessthan a lessthan 7 </QText>
+<Option > Quantity A is greater</Option>
+<Option > Quantity B is greater </Option>
+<Option > The two quantities are equal</Option>
+<Option correct = "1" > The relationship cannot be determined from the given information</Option>
+<A>  a-6  </A>
+<B>  6-a </B>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText tag='#Geometry#LinesandAngles'> O is the center of the circle.  </QText>
+<Option > Quantity A is greater</Option>
+<Option> Quantity B is greater </Option>
+<Option correct = "1"> The two quantities are equal</Option>
+<Option  > The relationship cannot be determined from the information give </Option>
+<A> a + c + e </A>
+<B> b + d + f </B>
+<Image src="Questiontype/GREQuestionimages/linesandangles.png"></Image>
+</Question>
+
+
+
+
+
+
+
+
+
+</Quiz>
+
+
+

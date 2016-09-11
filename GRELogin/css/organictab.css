@@ -1,0 +1,72 @@
+
+* { margin: 0; padding: 0; }
+body { font: 12px Georgia, serif; }
+html { overflow-y: scroll; }
+a { text-decoration: none; }
+a:focus { outline: 0; }
+p { font-size: 15px; margin: 0 0 20px 0; }
+#header p { font-size: 16px; margin: 0 0 20px 0; color:#666;font: 13px verdana}
+#header p :hover { text-decoration:underline;cursor:pointer;}
+
+#header hr { height:15px;display:inline-block; color:#eee;margin-right:20px; vertical-align:middle;}
+
+#tab-wrap { width: 440px; display:inline-block;}
+
+#Wrap { max-width: 970px;min-width:970px ; margin: auto; }
+h1 { font: bold 30px Sans-Serif; margin: 0 0 20px 0; }
+
+/* Generic Utility */
+.hide { position: absolute; top: -9999px; left: -9999px; }
+
+
+#example-two .list-wrap { background: #eee; padding: 10px; margin: 0 0 15px 0;font-size: 15px; border: 1px solid black;}
+
+#example-two ul { list-style: none; }
+#example-two ul li a { display: block; border-bottom: 1px solid #666; padding: 4px; color: #666; }
+#example-two ul li a:hover { background: #333; color: white; }
+#example-two ul li:last-child a { border: none; }
+
+#example-two .nav { overflow: hidden; }
+#example-two .nav li { width: 97px; float: left; margin: 0 10px 0 0; }
+#example-two .nav li.last { margin-right: 0; }
+#example-two .nav li a { display: block; padding: 5px; background: #7B4; color: white; font-size: 13px; text-align: center; border: 1px solid black; border-bottom:0px;}
+
+#example-two li a.current,#example-two li a.current:hover { background-color: #eee !important; color: black; }
+#example-two .nav li a:hover, #example-two .nav li a:focus { background: #999;}
+
+
+
+
+
+#mainnav{top:0;left:0;height:81px;width:100%;box-shadow: 1px 1px 1px #888888;background:-webkit-linear-gradient(top,#3b5970, #3b5998);background:-moz-linear-gradient(top,#3b5970, #3b5998);}
+
+#mainnav div{padding:0px;display:inline-block;margin-top:0px;padding:10px;height:70px;width:80px;border-right:1px solid #fff;
+margin-bottom:0px;padding-bottom:0px;}
+
+#mainnav div:hover{cursor:pointer; background:black;}
+
+#mainnav svg{margin:10px; height:30px;width:30px;display:inline-block;margin-top:5px;}
+
+#mainnav path{background:white;}
+
+#mainnav a{display:inline-block;font-family:'tahoma';font-style:normal;font-size:13px;vertical-align:top;height:20px;color:#fff;float:right;letter-spacing: 0;}
+
+#mainnav a :hover{ background:black;}    
+
+ #mainnav p{margin-left:5px;}
+
+
+
+.Sprites{ display:inline-block;width:15px;height:15px;border:1px solid #666;margin-right:20px;background:#eee;  }
+
+
+.tagPara { border-bottom: 1px solid #eee;padding-bottom:10px;}
+
+
+
+
+
+
+
+
+

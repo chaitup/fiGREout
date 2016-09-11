@@ -1,0 +1,5 @@
+
+
+AuthName "Member's Area Name"
+AuthUserFile http://localhost/GRElogin/.htpasswd
+AuthType Basic

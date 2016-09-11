@@ -1,0 +1,293 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head>
+  <script type="text/javascript" src="sha512.js"></script>
+  <script type="text/javascript" src="forms.js"></script>
+  <script type='text/javascript' src='js/jquery.js'></script>
+  <script type='text/javascript' src="js/raphael.js"></script>
+  <script type="text/javascript" src="js/raphael.free_transform.js"></script>
+  <script type='text/javascript' src='js/UI.js'></script>
+  <title>fiGREout- The online GRE math preperation with hundreds of practice questions</title>
+<meta content='AimGre offers comprehensive online New GRE practice questions and New GRE prep with hundreds of videos' name='description'>
+<meta content='gre prep, gre videos, gre math,  gre practice questions, gre exams, revised gre, new gre, new exam, revised exam' name='keywords'>
+
+
+ <link rel="stylesheet" type="text/css" href="login.css" media="screen" />
+ 
+
+ 
+ <style>
+ 
+ .hidden {
+    display: none;
+}
+ 
+ 
+ 
+ 
+ 
+ </style>
+</head>
+<body>
+
+<div id="LeftDisplay" style=''>
+</div>
+
+<script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ function supportsSvg() {
+    return document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Shape", "1.0")
+                        }
+
+
+			
+						
+
+		
+		  var R = Raphael(document.getElementById('LeftDisplay'),800,800);	
+
+
+          //  R.freeTransform(R.path("M100,24L30,150L112,191L191,143L101,23L111,189L111,189").attr({"fill":"#fff","fill-opacity":1, "stroke": "#000","stroke-width":2})).setOpts({draw: [ 'bbox' ],attrs: { fill: "#eee", stroke: "#000" },size:0, drag:true});
+
+
+
+				  //   R.freeTransform(R.path("		  M82,83L82,168L238,233L233,138L344,107L351,202L235,232L81,167L83,81L187,54L343,107L233,138L85,82L85,82").attr({"fill":"#fff","fill-opacity":1, "stroke": "#000","stroke-width":2})).setOpts({draw: [ 'bbox' ],attrs: { fill: "#eee", stroke: "#000" },size:0, drag:true});	
+
+
+
+				  //   R.freeTransform( R.circle(100, 100, 50).attr({"fill":"#fff","fill-opacity":1, "stroke": "#000","stroke-width":2})).setOpts({draw: [ 'bbox' ],attrs: { fill: "#eee", stroke: "#000" },size:0, drag:true});	
+
+
+
+var st = R.set();
+st.push(
+  
+    R.path("M196,52L196,325M226,52L226,325M256,52L256,325M286,52L286,325M316,52L316,325M346,52L346,325M376,52L376,325M406,52L406,325M436,52L436,325").attr({ "stroke": "#eee","stroke-width":1}),
+	R.path("M166,294L459,294M166,264L459,264M166,234L459,234M166,204L459,204M166,174L459,174M166,144L459,144M166,114L459,114M166,84L459,84").attr({ "stroke": "#eee","stroke-width":1}),
+	R.path("M166,52L166,324L459,325L459,325").attr({"fill-opacity": 0,fill:"white"}),
+	R.text(150, 120, "X"),
+    R.text(166, 335, "O"),
+	R.text(400, 335, "Y"),
+    R.path("M156,56L166,41L177,56L177,56"),  
+	R.path("M457,313L470,325L457,336L457,336")
+ 
+		
+
+);
+st.attr({"font-size": 14});
+// changes the fill of both circles
+					 
+R.freeTransform(st).setOpts({draw: [ 'bbox' ],attrs: { fill: "#eee" },size:5, drag:true});						 
+					 
+
+
+
+
+var st2 = R.set();
+st2.push(
+  
+	R.path("M166,52L166,324L459,325L459,325").attr({"fill-opacity": 0,fill:"white"}),
+	R.text(150, 120, "X"),
+    R.text(166, 335, "O"),
+	R.text(400, 335, "Y"),
+    R.path("M156,56L166,41L177,56L177,56"),  
+	R.path("M457,313L470,325L457,336L457,336"),
+ 	R.path("M246,411S277,280.5,308,150S370.5,279.5,433,409")
+		
+
+);
+st2.attr({"font-size": 14});
+// changes the fill of both circles
+					 
+R.freeTransform(st2).setOpts({draw: [ 'bbox' ],attrs: { fill: "#eee" },size:5, drag:true});	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 
+					 
+/*	 
+
+    <li><input  class="signininput" type="text" name="email" value="Email" AUTOCOMPLETE="OFF"/></li>
+    <li><input  class="signininput" type="password" name="password" id="password" value="Password"/></li>
+    <li><input class="signinbutton" type="button" value="Create Account" onclick="formhash(this.form, this.form.password);" /></li>
+   
+	
+</form>
+
+
+	
+						
+	var Formula = ["(a+b)\u00B2 = a\u00B2 + b\u00B2" ,"y =mx+b","x\u207B\u207F = 1/xn","Area of a Triangle is ½bh"];
+		
+	$(document).ready(function() {
+	var bouncy_ball = R.rect(120, 115,40,40).attr({"fill":"white"});
+
+	function bounce_up() {
+	     
+		bouncy_ball.animate({y: 150}, 500, '<',bounce_drop);
+		
+	}	
+	function bounce_drop() {
+		bouncy_ball.animate({y: 15}, 600, '>', bounce_up);
+
+	}
+	bounce_drop();
+});		 
+
+var DisplayRect = R.rect(0, 0, 34, 34).attr({fill:"WHITE"})
+	                    .click(function(){
+						
+						       Largerrect = R.rect(200, 200, 100, 100);
+                               Largerrect.freeT = R.freeTransform(Largerrect.attr({'fill': 'white',"fill-opacity":0.5})
+	                                	 .click(function(){
+		                                  SelectedRaphaelItemOnTheStage = this;
+	                                      //ft.showHandles();
+					                 
+									 	  	$('body').keydown(function(e) {
+			 
+                    if(e.keyCode == 8){
+					                     // alert(Node);
+					                       SelectedRaphaelItemOnTheStage.freeT.unplug();
+                                           SelectedRaphaelItemOnTheStage.remove();   
+					         
+					     }
+                                });	
+	  
+		                            
+										            
+		                         
+                                           }) ).setOpts({draw: [ 'bbox' ],attrs: { fill: "#eee", stroke: "#000" },size:5, drag:true});
+										     
+
+
+		     //ft.setOpts({ attrs: { fill: "#FFF", stroke: "#000" },size:5,distance: 1.1,rotate:false});
+		   
+					        // UIinterface();
+						});
+   DisplayRect.transform("t10,10 s0.8");
+	
+    var cpath = R.circle(0,0,15).attr({fill:"white"})
+	                 .click(function(){
+					 
+					function newrect()
+					
+					{   
+					 
+					  Largecirc =  R.circle(100, 100, 50)    	   
+	                  Largecirc.freeT = R.freeTransform(Largecirc.attr({fill:"white","fill-opacity":0.5}).click(function( ){
+				 
+				      SelectedRaphaelItemOnTheStage = this;
+					
+						  
+	        	    $('body').keydown(function(e) {
+			 
+                     if(e.keyCode == 8){
+					       // R.freeTransform(SelectedRaphaelItemOnTheStage.clone()).setOpts({draw: [ 'bbox' ],attrs: { fill: "#7b4", stroke: "#000" },size:5, drag:true});
+					        SelectedRaphaelItemOnTheStage.freeT.unplug();
+                            SelectedRaphaelItemOnTheStage.remove();
+					
+					                   }
+                    });	
+					
+					
+				
+					this.node.parentNode.onclick = function(){
+					
+					                       
+					
+					
+					};
+				 
+				 })).setOpts({draw: [ 'bbox'],attrs: { fill: "#eee", stroke: "#000" },size:5, drag:true});
+             
+			   }
+			   
+			   newrect();
+						   
+						});
+
+   cpath.transform("t50,10 s1");
+	
+	
+	
+	var Pencil = R.path("M25.31,2.872l-3.384-2.127c-0.854-0.536-1.979-0.278-2.517,0.576l-1.334,2.123l6.474,4.066l1.335-2.122C26.42,4.533,26.164,3.407,25.31,2.872zM6.555,21.786l6.474,4.066L23.581,9.054l-6.477-4.067L6.555,21.786zM5.566,26.952l-0.143,3.819l3.379-1.787l3.14-1.658l-6.246-3.925L5.566,26.952z").attr({stroke: "black",fill:"white",cursor:"pointer"});
+	  Pencil.transform("t140,10 s1");
+	  Pencil.click(function()
+	                {
+					   paperstroke ="#000";
+	                   AllowScribble();
+	
+	                 });
+	
+
+		
+	var 	TA = R.text(0, 15, "T").attr({cursor:"pointer","font-size": 30, "font-family": "Tahoma, Helvetica, sans-serif",fill:"#fff"});
+	  TA.transform("t210,10 s1.1");
+	  TA.click(function(){
+	  
+	  document.getElementById('fname').style.display = "inline-block";
+	        document.getElementById('fname').value = "All the Best"
+			
+									 	  	$('#fname').keydown(function(e) {
+			  
+                        if(e.keyCode == 8){
+						      e.stopPropagation();
+					              
+					         
+					                      }
+                                });	
+			
+			
+			
+			
+			
+
+	             Newtextfield();
+	                 });
+
+					 
+					 
+					 
+					 
+		 
+	  var Line = R.path("M4.082,4.083v2.999h22.835V4.083H4.082zM4.082,20.306h22.835v-2.999H4.082V20.306zM4.082,13.694h22.835v-2.999H4.082V13.694zM4.082,26.917h22.835v-2.999H4.082V26.917z").attr({stroke: "#000",fill:"white",cursor:"pointer" });
+		 	  Line.transform("t250,10 s1");
+  
+     Line.click(function()
+	  {
+	    AllowLineDrawing();
+	  });*/
+
+</script>
+</body>
+</html>

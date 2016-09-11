@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="js/raphael.js"></script>
+    <script>
+	;(function() {
+  Raphael.fn.addGuides = function() {
+    this.ca.guide = function(g) {
+      return {
+        guide: g
+      };
+    };
+    this.ca.along = function(percent) {
+      var g = this.attr("guide");
+      var len = g.getTotalLength();
+      var point = g.getPointAtLength(percent * len);
+      var t = {
+        transform: "t" + point.x + " " + point.y
+      };
+      return t;
+    };
+  };
+})();
+	
+	
+	
+	
+	
+	</script>
+    <script>
+      $(function(){
+ 
+        var p = new Raphael(0,0,"100%","100%");
+ 
+        // give raphael guide and along custom attributes
+        p.addGuides();
+ 
+        var black = {stroke : "#333"};
+		        var white = {stroke : "white"};
+        var path;
+ 
+        var path1 = p.path("M26,434S86,302.5,146,171S269,293,392,415S485.5,330.5,579,246S709.5,326.5,840,407S840,407,840,407").attr(black);
+ 
+        var path2 = p.path("M 300 100 \ R 350 150 \
+                           400 50 \
+                           450 100 \
+                           500 40 \
+                           550 100").attr(white);
+ 
+        var circ1 = p.circle(0, 0, 30).attr(white);
+ 
+        var circ2 = p.circle(0, 0, 10).attr(white);
+ 
+        $(document).on("click", function(){
+          // animate along a path
+          circ1.attr({guide : path1, along : 0})
+            .animate({along : 1}, 3000, "ease-in");
+ 
+          circ2.attr({guide : path2, along : 1})
+            .animate({along : 0}, 3000, "ease-out");
+        });
+ 
+      });
+    </script>
+    <style>
+      body,html{
+        background-color : #333;
+        color : white; 
+        font-family : sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    click me to see animation
+  </body>
+</html>

@@ -1,0 +1,37 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+
+<Question>
+
+<QText>If a * b represents the number of whole numbers between a and b, then (–4 * 4) + (2 * –8) =</QText>
+<Option> 16</Option>
+<Option correct = "1"> 6</Option>
+<Option> 14</Option>
+<Option> 5</Option>
+<Option> 18 </Option>
+</Question>
+
+
+<Question>
+
+<QText>PQRS is a square and one of its sides RS is also a chord of the circle with radius 3 as shown in the figure. What is
+the area of the square?</QText>
+<Option> 3</Option>
+<Option correct = "1">  9</Option>
+<Option> 12</Option>
+<Option> 12root2</Option>
+<Option> 18</Option>
+</Question>
+
+</Quiz>

@@ -1,0 +1,114 @@
+<Quiz>
+
+<Question>
+
+<QText> Dummy.</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+<Question>
+
+<QText> The bartender raised his glass for a _______, wishing the newlywed couple a long and happy marriage. </QText>
+
+<Option> Clash</Option>
+<Option> Pledge </Option>
+<Option> Grievance </Option>
+<Option correct = "1"> Wassail </Option>
+<Option> Decant</Option>
+<Option> Appropriation </Option>
+<Option correct = "1"> Salutation </Option>
+<Image src="Questiontype/QuantitativeComparisionImages/QuantitativeComparisionOne.png"></Image>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText> Tim was known for his picture memory; he never had to study due to his _____ ability. 
+ </QText>
+
+<Option  correct = "1"> eidetic</Option>
+<Option>linguistic </Option>
+<Option  correct = "1"> mental</Option>
+<Option>vocal</Option>
+<Option> sage </Option>
+<Option> instantaneous </Option>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText> Time was running out for Batman to foil the Jokers __________ plot to poison Gotham Citys reservoir. 
+ </QText>
+
+<Option  correct = "1"> nefarious</Option>
+<Option>ambivalent</Option>
+<Option  correct = "1"> iniquitous</Option>
+<Option>ephemeral</Option>
+<Option> mordant</Option>
+<Option> cordial </Option>
+</Question>
+
+
+
+
+
+
+		
+
+
+
+
+
+<Question>
+
+<QText>The child threw a temper tantrum in the grocery store; he would not stop ______ about the chocolate bar that was denied to him by his mother. 
+ </QText>
+
+<Option  > upbraiding</Option>
+<Option>simpering</Option>
+<Option > punting</Option>
+<Option correct = "1">fussing</Option>
+<Option correct = "1"> being finicky </Option>
+<Option> hissing </Option>
+</Question>
+
+	
+	
+	
+	
+
+
+<Question>
+
+<QText>Everyone knew Maria was the favorite daughter in the Welsh household, and thus for years and years Sarah, Maria sister, felt _____ and resentment towards Maria. 
+ </QText>
+
+<Option  > indebtedness</Option>
+<Option>abhorrence</Option>
+<Option correct = "1"> indignation</Option>
+<Option>detrimental</Option>
+<Option> rapturous</Option>
+<Option  correct = "1"> umbrage </Option>
+</Question>
+
+
+
+
+
+</Quiz>
+
+
+

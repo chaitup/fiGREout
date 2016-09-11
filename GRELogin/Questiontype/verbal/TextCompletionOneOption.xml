@@ -1,0 +1,106 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText>
+
+
+Quantity A                                                        Quantity B
+
+1) The area of a circle that has a chord of length 8	         2 )The area of a circle that has a diameter of 8
+
+
+</QText>
+<Option> Quantity A is greater </Option>
+<Option> Quantity B is greater</Option>
+<Option correct = "1"> The two quantities are equal </Option>
+<Option> The relationship cannot be determined from the information given </Option>
+
+</Question>
+
+
+
+
+
+<Question>
+
+<QText> Bombardment of aluminum by?particle leads to
+its artificial disintegration in two ways, (i) and (ii) as
+shown.Products X, Y and Z respectively are</QText>
+
+<Option> Promotion </Option>
+<Option correct = "1"> Surveying </Option>
+<Option> Exploration </Option>
+<Option> Conservation </Option>
+<Option> Appropriation </Option>
+<Image src="Questiontype/QuantitativeComparisionImages/Geometry.jpg"></Image>
+</Question>
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText> The teachers jargon was too difficult to comprehend,thus, I went to the after school tutor and she explained the concepts to me in a more _______ form. </QText>
+<Option> belligerent</Option>
+<Option  correct = "1" >pellucid</Option>
+<Option>diffident</Option>
+<Option>collusive</Option>
+<Option >secretive</Option>
+</Question>
+
+
+
+		
+
+
+
+<Question>
+<QText>When Pam realized it was her son who stole her grandmothers broach, she seemed quite distraught. In a despondent state, she ______ him, but he didnt seem to care. </QText>
+<Option> pampered </Option>
+<Option>scourged</Option>
+<Option>praised</Option>
+<Option> reproached </Option>
+<Option correct = "1">inflamed</Option>
+
+</Question>
+	
+	
+	
+	
+
+<Question>
+
+<QText> The musicians played the accordions so loudly that always afterward they were windbroken, like ______ horses. </QText>
+<Option>spirited</Option>
+<Option correct = "1"> fuming</Option>
+<Option>piqued </Option>
+<Option> annoyed </Option>
+<Option> foundered </Option>
+</Question>
+
+
+
+
+</Quiz>
+
+
+

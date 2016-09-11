@@ -1,0 +1,87 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+
+<script type="text/javascript" src='js/jquery.js'></script>       
+<script type="text/javascript" src='js/hovercard.js'></script>
+
+<style type="text/css">
+</style>
+</head>
+
+
+
+
+<body>
+
+<div style='margin-bottom:10px'></div>
+
+                                <p>jQuery by <label id="demo-basic">Tags</label> is a cross-browser JS
+library designed to simplify the client-side scripting of HTML. It was released in January of 2006 at BarCamp NYC. Used by over 46% of the 10,000 
+most visited websites, it's the most popular JavaScript library in use today.</p>
+
+                                <p>jQuery is free, open source software, dual-licensed under the MIT License and GNU General Public License, Version 2.[4] jQuery's syntax is designed to make 
+it easier to navigate a document, select DOM elements, create animations, handle events, and develop Ajax applications.</p>
+
+
+</body>
+<script type="text/javascript">
+
+
+
+$(document).ready(function () {
+  
+
+  
+  
+  
+      var hoverUserDetails = '<div class="hover-details"></div>';
+
+    $("#demo-basic").hovercard({
+        detailsHTML: hoverUserDetails,
+        width: 350, 
+		openOnRight :true,
+        onHoverIn: function () {
+
+            $.ajax({
+                url:'http://locahost/GRElogin/rukma.html',
+                type: 'GET',
+                success: function (data) {
+                    $(".hover-details").empty();
+                    $(data).appendTo(".hover-details");
+                }
+         
+            });
+        }
+    }); 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	
+});
+
+
+
+
+  
+
+
+
+
+
+
+</script>
+</html>
+
+

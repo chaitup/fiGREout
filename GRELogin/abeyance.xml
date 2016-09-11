@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Word>
+
+
+<part1>   
+<heading>Abeyance</heading>       
+<meaning> 1. A temporary pause; temporary inactivity.</meaning>
+</part1>
+
+
+<part2>
+<heading>Picture Association</heading>
+<sentence>"Andrew is eschewing from the junk food as part of diet"</sentence>
+<image src="images/pic111.gif"></image>
+</part2>
+
+
+ <part3>
+ <heading>Amazing Fact </heading>
+ <fact>Olympics games were kept in ABEYANCE due to World war2.
+ </fact>
+</part3>
+
+
+
+<amazing id="amaze" numlikes="0" >Albert Spaggiari, a criminal by profession, one of the most successful ones in the world he devised a great plan of robbery. For that he recruited a group of professional gangsters. He instructed  them to  ESCHEW from drugs and alcohol to get proper sleep. The task was to dig a tunnel during a festive occasion whilst the bank remained closed. Albert was able to not just get into the vault but opened up to 400 safety deposit boxes and stole up to 60 millions of money and other valuables!.
+ </amazing>
+
+</Word>

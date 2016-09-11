@@ -1,0 +1,1064 @@
+<Quiz>
+
+
+<Question>
+<QText> Dummy</QText>
+<Option> Dummy </Option>
+<Option correct = "1"> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+<Option> Dummy </Option>
+</Question>
+
+
+<!-- Shanthi doc 1  -->
+ <Question>
+
+<QText  tag='#Geometry#Polygons'>If the perimeter of a certain rectangle is 70 and its area is 300 then what is the length of its shortest side? </QText>
+<Option > 12</Option>
+<Option correct = "1" > 15</Option>
+<Option > 20</Option>
+<Option > 30</Option>
+<Option > 40</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#DataAnalysis#Probability'> A certain jar contains 80 jelly bean  26 white, 18 black, 14 orange, 12 red, and 10 green. If a jelly bean is to be chosen at random, what is the probability that the jelly bean will be neither orange nor green? </QText>
+<Option> 0.4</Option>
+<Option> 0.5</Option>
+<Option> 0.6 </Option>
+<Option  correct = "1"> 0.7</Option>
+<Option> 0.8 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText tag='#Algebra#Co-ordinateGeometry'> Which of the following numbers is farthest from the number 1 on the number line</QText>
+
+<Option>  9 </Option>
+<Option>  5</Option>
+<Option correct = "1"> -9 </Option>
+<Option> -5 </Option>
+<Option> -1 </Option>
+
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Percent'> A particular stock is valued at $40 per share. If the value of a share increases 50%, then decreases 50% and then increases 20%, what is the final value of a share?</QText>
+<Option> 48</Option>
+<Option  correct = "1" > 36</Option>
+<Option> 38</Option>
+<Option> 40 </Option>
+<Option> 44</Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#DataAnalysis#Probability'> In how many ways can teams of 3 students be selected from a group of 7 students?</QText>
+<Option> 14</Option>
+<Option   > 21</Option>
+<Option> 28</Option>
+<Option correct = "1"> 35 </Option>
+<Option > 42</Option>
+</Question>
+	
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> If it takes Eric 4 hours to paint the ceiling of a building and it takes Mathew 8 hours to do the same job, how long would it take to do the job if both painters worked simultaneously ? </QText>
+<Option> 24/3</Option>
+<Option   > 18/3</Option>
+<Option> 12/3</Option>
+<Option correct = "1"> 8/3 </Option>
+<Option > 4/3</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> If a, b and c are odd integers, which of the following expressions must be an even integer ?</QText>
+<Option> ab+bc+ca </Option>
+<Option   > a + b + c</Option>
+<Option> a + b - c </Option>
+<Option correct = "1"> a(b + c) </Option>
+<Option > a + bc</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText   tag='#Algebra#SolvingLinearEquations'> If 3x + 25 = 10 - 2x, what is the value of x ? </QText>
+<Option > -4 </Option>
+<Option correct = "1"  > -3 </Option>
+<Option > 4</Option>
+<Option > 15</Option>
+<Option > 7</Option>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='#Algebra#Applications'> If 6 workers can build 4 cars in 2 days, then how many days would it take 8 workers to  build 6 cars? </QText>
+<Option > 5/4</Option>
+<Option  correct = "1"> 9/4 </Option>
+<Option > 8/3</Option>
+<Option > 11/4</Option>
+<Option > 10/3</Option>
+</Question>
+
+
+
+
+
+
+
+
+
+
+
+
+<Question>
+
+<QText   tag='#Algebra#SolvingLinearEquations'> If y = 4x and y = 2z, what is x + y + z in terms of x ? </QText>
+<Option > 10x </Option>
+<Option  > 9x </Option>
+<Option > 8x</Option>
+<Option correct = "1"> 7x</Option>
+<Option > 6x </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Exponents'> 3superx + 3superx + 3superx </QText>
+<Option > 9superx</Option>
+<Option  > 9super3superx</Option>
+<Option correct = "1"> 3superxsuperplussuper1</Option>
+<Option > 3super3superx</Option>
+<Option > 3super2superx</Option>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Percent'> A certain company donates 10% of every sale worth 10$ or less and donates 1.2$ on every sale worth over 10$. The first 3 customers on a particular day bought goods worth 8$, 10$ and 15 $ respectively. Then, what is amount donated by the company on its first 3 sales of the day. </QText>
+<Option > 2$</Option>
+<Option>  2.2$ </Option>
+<Option > 2 .7$</Option>
+<Option correct = "1"> 3$</Option>
+<Option > 3.2$</Option>
+</Question>
+
+
+<Question>
+
+<QText tag='#Arithmetic#Percent'> James sold his old TV for a 20% loss .Instead if he would have sold it for $480, he would have made a 20% profit. At what price was the TV sold? </QText>
+<Option > $440</Option>
+<Option> $380</Option>
+<Option> $420 </Option>
+<Option  correct = "1"> $360</Option>
+<Option> $400 </Option>
+
+</Question>
+
+
+
+<!-- 13  Questions from  14 Doc-->
+
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Exponents'>If n is an integer  and 5supern > 4000000 what is the least possible value of n ? </QText>
+<Option > 7</Option>
+<Option  > 8 </Option>
+<Option > 9</Option>
+<Option correct = "1"> 10</Option>
+<Option > 11</Option>
+</Question>
+
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Three-DimensionalFigures'>If the volume of a cube is x cubic feet and the total surface area of the cube is x square feet, then what is the total length, in feet, of all the cubes edges? </QText>
+<Option > 24</Option>
+<Option > 60</Option>
+<Option correct = "1" > 72</Option>
+<Option > 120</Option>
+<Option > 144</Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Triangles'>If the area of an equilateral triangle is x square meters and the perimeter is x meters, then what is the length of one side of the triangle in meters? </QText>
+<Option > 6</Option>
+<Option > 8</Option>
+<Option  > 12root3</Option>
+<Option correct = "1" > 4 root3</Option>
+<Option >  8 root 3</Option>
+</Question>
+
+
+<!-- April 9  end -->
+
+
+<!-- April 10   3 questions -->
+
+<!-- inclusin of minus symbol in this question is making the xml file not to parse-->
+<Question>
+<QText   tag='#Arithmetic#Co-ordinateGeometry' >In the xy - coordinate plane, the points (a,b) and (a + k , b - 3) are on the line defined by y = 2x - 5. What is the value of k? </QText>
+<Option > 2/3</Option>
+<Option > 4/3</Option>
+<Option  > 3/4</Option>
+<Option correct = "1" > 3/2</Option>
+<Option > 3/5</Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Co-ordinateGeometry'>If points (0, -3), (6, 0) and (k , 10) all lie on the same line, what is the value of k ? </QText>
+<Option > 16</Option>
+<Option > 11</Option>
+<Option  > 13 </Option>
+<Option  > 24 </Option>
+<Option correct = "1" > 26</Option>
+</Question>
+
+
+<Question>
+<QText   tag='#Arithmetic#Realnumbers'> If p and q  are prime numbers, how many divisors does the product psuper3qsuper5 have ? </QText>
+<Option > 28</Option>
+<Option correct = "1"> 24</Option>
+<Option  > 12 </Option>
+<Option  > 56 </Option>
+<Option  > 48</Option>
+</Question>
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Realnumbers'> If 1 + x + xsuper2 + xsuper3 = 100, then the average (arithmetic mean) of x, xsuper2, xsuper3, and xsuper4 is equal to which of the following?</QText>
+<Option> 20x</Option>
+<Option  correct = "1" > 25x</Option>
+<Option> 40x</Option>
+<Option> 50x </Option>
+<Option> 100x</Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'> Parallelogram OABC lies in the xy-plane, as shown in the figure above. The coordinates of point A are (3, 4) and the coordinates of point B are (7, 8). What are the coordinates of point C ?  </QText>
+<Option > (3, 3)</Option>
+<Option >(3, 8) </Option>
+<Option > (4, 3)</Option>
+<Option correct = "1" >(4, 4)</Option>
+<Option >(8 8)</Option>
+<Image src="Questiontype/GREQuestionimages/paralllelogramcoordinates.png"></Image>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> The relationship between the area A of a circle and its circumference C is given by the formula  = kC^2, where k is a constant. What is the value of k?  </QText>
+<Option > 1/mathpi </Option>
+<Option > 2mathpi </Option>
+<Option > 1/2mathpi</Option>
+<Option  >4mathpi</Option>
+<Option correct = "1"> 1/4mathpi</Option>
+</Question>
+
+
+
+
+
+
+
+
+<!-- 19 OVER -->
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Ratio'> The ratio of 1/5 to 5/7 is equal to the ratio of</QText>
+<Option > 1 to 7 </Option>
+<Option> 7 to 1</Option>
+<Option > 7 to 5 </Option>
+<Option  correct = "1"> 7 to 25</Option>
+<Option> 25 to 7</Option>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> A tuition teacher gives an assignment of  10 questions to students of which 4 are mathematics questions, 4 are humanities questions and  2 are history questions. Each student is requred to do 8 questions inluding atleast 3 mathematics questions, 3 humaties questions and 1 history question.  How many selections of 8 questions satisfy the requirements?</QText>
+
+<Option > 16</Option>
+<Option>  24</Option>
+<Option > 32 </Option>
+<Option  correct = "1"> 96</Option>
+<Option> 192</Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearEquations'> If 2x = 3y = 5z = 10, then 15xyz = </QText>
+
+<Option > 150</Option>
+<Option>  450</Option>
+<Option  correct = "1"> 500 </Option>
+<Option > 750</Option>
+<Option> 1200</Option>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Exponents'> If n = 3super2, then nsupern = </QText>
+<Option > 3super6</Option>
+<Option  > 3super9</Option>
+<Option   correct = "1"> 3super18</Option>
+<Option> 3super27</Option>
+<Option > 3super81</Option>
+
+</Question>
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> The fabric needed to make 6 curtains sells for $9.00 per meter and can be purchased only by the full meter. If the length of fabric required for each curtain is 2.4 meters and all of the fabric is purchased as a single length, what is the total cost of the fabric that needs to be purchased for the 6 curtains?</QText>
+<Option>126</Option>
+<Option   > 129.6</Option>
+<Option correct = "1"> 135</Option>
+<Option >  142.6</Option>
+<Option > 162</Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Realnumbers'>  If 0 lessthan a lessthan 1 lessthan b, which of the following is true about the reciprocals of a and b ? </QText>
+<Option > 	1/a lessthan 1 lessthan 1/b        </Option>
+<Option correct = "1"> 1/b lessthan 1 lessthan 1/a    </Option>
+<Option  > 1 lessthan 1/a lessthan 1/b     </Option>
+<Option  > 1 lessthan 1/b lessthan 1/a     </Option>
+<Option  > 1/b lessthan 1/a lessthan 1     </Option>
+</Question>
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> What is the least positive integer that is not a factor of 15! and is not a prime number? </QText>
+<Option> 16 </Option>
+<Option   > 19 </Option>
+<Option correct = "1"> 34 </Option>
+<Option > 38 </Option>
+<Option > 57 </Option>
+</Question>
+
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> In the figure above, P and Q are the centers of the two circles. If each circle has radius r, what is the area of the shaded region?   (shaded region = PRQS)</QText>
+<Option correct = "1" > root(3) mathpirsuper2/2  </Option>
+<Option > root(3) mathpirsuper2/4  </Option>
+<Option >  3mathpirsuper2/2 </Option>
+<Option  > 3mathpirsuper2/4</Option>
+<Image src="Questiontype/GREQuestionimages/twocirclecentres.png"></Image>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'> What is the perimeter, in meters, of a rectangular playground 16 meters wide that has the same area as a rectangular playground 24 meters long and 18 meters wide</QText>
+<Option > 64</Option>
+<Option > 84 </Option>
+<Option correct = "1" > 86</Option>
+<Option > 98</Option>
+<Option > 108</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> In year X, the population of a City A was approximately half that of a city , and the land area of city a  was approximately 16 times that of city B. The population density (number of persons per unit of landarea) of city A in year Y was approximately how many times the population density of city B? </QText>
+<Option> 8 </Option>
+<Option   > 1/8</Option>
+<Option> 32 </Option>
+<Option correct = "1"> 1/32 </Option>
+<Option > 16 </Option>
+</Question>
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Percent'>  Johns income in 2011 was 25 percent greater than his income in 2009. What is the ratio of Johns income in 2011 to his income in 2009 ?</QText>
+<Option> 1/5</Option>
+<Option> 1/4</Option>
+<Option> 4/5</Option>
+<Option correct = "1"> 5/4</Option>
+<Option> 7/4</Option>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> Nathalies monthly take-home pay is n dollars. Each week she uses 3n/5 dollars for expenses and saves the rest. At those rates, how many months will it take Jacob to save $500, in terms of n ?</QText>
+<Option>  500/n</Option>
+<Option > 1000/n</Option>
+<Option correct = "1"> 1250/n </Option>
+<Option > 2000/n</Option>
+<Option > 2500/n</Option>
+
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Realnumbers'> a - 4, a - 2, a + 4, a + 5, a + 7 The median of these five terms listed above is 7, where a is a constant. What is the average (arithmetic mean) of the five terms?</QText>
+<Option > 3</Option>
+<Option > 4</Option>
+<Option correct = "1" > 5 </Option>
+<Option  > 6 </Option>
+<Option  > 7</Option>
+</Question>
+
+
+<Question>
+<QText   tag='#Geometry#Triangles'> A Circle with center at O is circumscrimbed around a triangle ABC.. Where AC = 12 BC = 5. What is the circumference of the circle ? </QText>
+<Option  > 9mathpi  </Option>
+<Option > 11mathpi </Option>
+<Option correct = "1">  13mathpi </Option>
+<Option  > 22mathpi </Option>
+<Option  > 26mathpi </Option>
+<Image src="Questiontype/GREQuestionimages/circumtriangle.png"></Image>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> A Circle with center at O is circumscrimbed around a triangle ABC.. Where AC = 12 BC = 5. What is the circumference of the circle ? </QText>
+<Option  > 3mathpi  </Option>
+<Option correct = "1" > 6mathpi </Option>
+<Option >  9mathpi </Option>
+<Option  > 12mathpi </Option>
+<Option  > 18mathpi </Option>
+<Image src="Questiontype/GREQuestionimages/shadedcircleregion.png"></Image>
+</Question>
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Realnumbers'> If a + b = 10, then (a + b/2) + (b + a/2) = </QText>
+<Option >  5 </Option>
+<Option > 10 </Option>
+<Option correct = "1" > 15 </Option>
+<Option  > 20 </Option>
+<Option  > 25 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText   tag='#Arithmetic#Integers'>  If x/y = y/z then which among the following is a definitely perfect square ?</QText>
+<Option >  xy </Option>
+<Option correct = "1"  > xz </Option>
+<Option > yz </Option>
+<Option  > y  </Option>
+<Option  > xyz </Option>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'>  If there are 4 doors to a lecture room. What is the number of ways that a student enters the room and leaves it by different doors? </QText>
+<Option > ? </Option>
+<Option>  8</Option>
+<Option > 9 </Option>
+<Option  correct = "1"> 12</Option>
+<Option> 16 </Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'>  In how many ways can 3 students be selected from a group of 10 students to represent a school in the inter school essay competition? </QText>
+<Option > 720 </Option>
+<Option correct = "1">  120 </Option>
+<Option > 30 </Option>
+<Option > 10!</Option>
+<Option> 3! </Option>
+</Question>
+
+
+<Question>
+<QText  tag='#DataAnalysis#Probability'> A shooter can hit a target once in 4 shots. If shooter fires 4 shots in succession, what is the probability that the shooter will hit his target?</QText>
+<Option> 3/4</Option>
+<Option> 1</Option>
+<Option> 1/256 </Option>
+<Option> 81/256</Option>
+<Option   correct = "1">   175/256 </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> A university awards merit scholarship to students with average score of at least 85 on 4 exams. If Nathalie has received the following scores on first 3 exams: 75, 85, 90 then what is the minimum score she must get on the 4th exam to get a merit scholarship? </QText>
+<Option> 80 </Option>
+<Option   > 85 </Option>
+<Option correct = "1"> 90 </Option>
+<Option >95 </Option>
+<Option > 100 </Option>
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#Geometry#Quadrilaterals'> Dennis is relaying his bedroom floor using Persian square tiles with a perimeter of 60 inches. If the bedrooms floor width is 240 inches and length is 360 inches. Then how many tiles does Dennis need for his new floor?</QText>
+<Option>  52 </Option>
+<Option   > 525 </Option>
+<Option correct = "1"> 576 </Option>
+<Option > 24 </Option>
+<Option > 96 </Option>
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> If David spends 2/3rd of his income on rent and groceries, 1/6th for charity and saves the rest of his income, which is $10,000  in a bank. What is the amount of money that David spend on his rent and groceries? </QText>
+<Option>  10,000 </Option>
+<Option   > 15,000 </Option>
+<Option > 20,000 </Option>
+<Option > 30,000 </Option>
+<Option correct = "1"> 40,000 </Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> In a certain shop, pens that normally costs $0.99 each are on a special sale at $1.49 for 2. If a student buys 20 pens at the special offer price then how much money did the student save?</QText>
+<Option>  $1.75</Option>
+<Option   > $2.00  </Option>
+<Option > $2.25 </Option>
+<Option  correct = "1"> $2.5 </Option>
+<Option> $2.75</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> If the average (arithmetic mean) of 5 consecutive integers is 15, what is the sum of the least and greatest of the 5 integers?</QText>
+<Option> 13 </Option>
+<Option   > 15 </Option>
+<Option> 20</Option>
+<Option > 25  </Option>
+<Option correct = "1"> 30 </Option>
+</Question>
+
+
+
+<Question>
+
+<QText tag='#Arithmetic#Percent'> Noah spends 20% of his salary on house rent, 40% of the rest on groceries, 25% of the rest on entertainment and was finally left with $1440. How much did he spend on entertainment?</QText>
+<Option >  1920</Option>
+<Option correct = "1"> 480</Option>
+<Option> 1000 </Option>
+<Option  > 2400 </Option>
+
+</Question>
+
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> The cost, in dollars, of manufacturing x Laptops is  8000+ 300x. The amount received when selling these x TVs is 500x dollars. What is the least number of TVs that must be manufactured and sold so that the amount received is at least equal to the manufacturing cost?</QText>
+<Option>  16 </Option>
+<Option   > 20  </Option>
+<Option > 32 </Option>
+<Option  correct = "1">4 0 </Option>
+<Option> 64</Option>
+</Question>
+
+
+
+
+
+
+
+<Question>
+<QText tag='#Arithmetic#Percent'> A certain amount of solution contains 18% alcohol. 8 liters of the solution is taken out and replaced with water. The resultant solution contains 15% alcohol. Find the volume (in liters) of the solution</QText>
+<Option > 40 </Option>
+<Option > 44 </Option>
+<Option correct = "1"> 48 </Option>
+<Option  > 50</Option>
+<Option  > 56</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'> Nathalie used to purchase certain number of strawberries for $20. On a certain day the price of strawberries is reduced by 20% she got 12 more strawberries today. Find the original price of 120 mangoes</QText>
+<Option>   60 </Option>
+<Option   > 80  </Option>
+<Option > 100 </Option>
+<Option  correct = "1"> 120 </Option>
+<Option>  160</Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> What is the greatest value of a positive integer n such that  3supern is a factor of 18super12.</QText>
+<Option> 12 </Option>
+<Option   > 18 </Option>
+<Option  correct = "1"> 24</Option>
+<Option > 30  </Option>
+<Option> 36 </Option>
+</Question>
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Realnumbers'> If a + b minus c = d, and if a minus b + c = e, then which of the following represents the value of a ? </QText>
+<Option correct = "1" > (d + e)/2  </Option>
+<Option >  d minus e </Option>
+<Option >  d + e </Option>
+<Option >  e - d </Option>
+<Option>   2(d + e) </Option>
+
+</Question>
+
+
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'>  A portion of $6,000 is invested at a 6 percent annual rate of interest, while the remainder is invested at a 2 percent rate. If the annual income from the two portions is the same, what dollar amount was invested at the 2 percent rate</QText>
+<Option>   1500 </Option>
+<Option   > 3000  </Option>
+<Option  correct = "1"> 4500 </Option>
+<Option > 2250 </Option>
+<Option>  3750 </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'>  If the ratio of the ages of two friends Jack and James is in the ratio 2 : 3 and that James and Rick is 2 : 3 and the sum of their ages is 95, then how old is James? </QText>
+<Option >   20 </Option>
+<Option correct = "1"  > 25  </Option>
+<Option  > 30 </Option>
+<Option > 40 </Option>
+<Option>  45 </Option>
+</Question>
+
+
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#CountingMethods'> In a class of 127 students 49 students play Soccer, 55 students play Tennis and 19 students play both Tennis and Soccer. How many students in the class play neither Soccer nor Tennis?</QText>
+
+<Option > 4</Option>
+<Option> 23</Option>
+<Option > 34 </Option>
+<Option  correct = "1"> 42</Option>
+<Option>  61</Option>
+</Question>
+
+<Question>
+
+<QText   tag='#Arithmetic#Exponents'> 2^16 + 2^16 + 2^16 + 2^16= </QText>
+<Option > 8^16</Option>
+<Option  > 8^64</Option>
+<Option correct = "1"> 2^18</Option>
+<Option > 2^64</Option>
+<Option > 2^20 </Option>
+</Question>
+
+
+
+<Question>
+<QText tag='#Arithmetic#Ratio'> In a restaurant, the ratio of number of pizzas sold to number of burgers sold is 1:3 and the ratio of number of burgers sold to number of Sandwiches is 2:5. What is the ratio of number of Pizzas sold to number of Sandwiches?</QText>
+<Option > 4/5 </Option>
+<Option correct = "1"> 2/15</Option>
+<Option > 5/6 </Option>
+<Option  >  3/8</Option>
+<Option> 1/30</Option>
+</Question>
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> A 3 feet by 4 feet rectangle is inscribed in a circle. What is the circumference of the circle? </QText>
+<Option >  2.5pi </Option>
+<Option correct = "1" >5pi </Option>
+<Option > 10pi </Option>
+<Option  >3pi</Option>
+<Option > 4pi</Option>
+</Question>
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> If the diameter of a circle is increased by 50% then by what percentage has the area of the circle increased by? </QText>
+<Option >  56.25 </Option>
+<Option correct = "1" > 125 </Option>
+<Option > 50 </Option>
+<Option  > 25</Option>
+<Option > 62.5 </Option>
+</Question>
+
+
+
+<Question>
+
+<QText   tag='#Arithmetic#Sequencesandseries'> After being dropped a certain ball always bounces back to 3/4th of the height of its previous bounce. After the first bounce it reaches a height of 64 inches. How high in inches will it reach after its third bounce?  </QText>
+<Option correct = "1"  >  27</Option>
+<Option > 20.25</Option>
+<Option >  36 </Option>
+<Option  > 48 </Option>
+<Option > 64 </Option>
+</Question>
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> n and p are integers greater than 1. 5n is the square of a number.  75np is the cube of a number. The smallest value for n + p is </QText>
+<Option correct = "1"> 14  </Option>
+<Option> 18 </Option>
+<Option>  20 </Option>
+<Option > 30 </Option>
+<Option > 50</Option>
+</Question>
+
+
+<Question>
+<QText   tag='#Geometry#Quadrilaterals'>  ABCD is a square of side 3, and E and F are the mid points of sides AB and BC respectively. What is the area of the quadrilateral EBFD ?  </QText>
+<Option > 2.25 </Option>
+<Option > 3 </Option>
+<Option > 5</Option>
+<Option correct = "1" >4.5 </Option>
+<Option > 6 </Option>
+</Question>
+
+
+
+
+
+<Question>
+
+<QText  tag='#Algebra#Applications'>  A cubical block of metal weighs 4 pounds. How will another cube made of the same metal weigh if its sides are twice as long as of the first cube? </QText>
+<Option >   8 </Option>
+<Option  > 16 </Option>
+<Option  > 24 </Option>
+<Option correct = "1"> 32 </Option>
+<Option>  48 </Option>
+</Question>
+
+
+<Question>
+
+<QText  tag='#Algebra#OperationswithAlgebricExpressions'> If  3x = 5y = 7z then the least possible value of  x  +  y  +  z is  ? </QText>
+<Option >   15 </Option>
+<Option  > 59 </Option>
+<Option  > 65 </Option>
+<Option correct = "1"> 71 </Option>
+<Option>  105 </Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'>  In a certain competition, 2/5 rd of all prize money is awarded to the first place winner while 1/4 th of the prize money is given to the second place winner and rest of the participants are given together $1050. What is the prize money given to the first place winner? </QText>
+<Option >   350 </Option>
+<Option  > 1000 </Option>
+<Option  > 1050 </Option>
+<Option correct = "1"> 1200</Option>
+<Option>   1400 </Option>
+</Question>
+
+
+
+
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> what is the greatest of 3 consecutive integers whose sum is 39? </QText>
+<Option> 11 </Option>
+<Option   > 12 </Option>
+<Option  > 13 </Option>
+<Option correct = "1"> 14 </Option>
+<Option> 15 </Option>
+
+</Question>
+
+
+209) x + 5y = 24,  x+  y = 6. What is the value of x+3y
+A) 10, b) 12, c) 15, D) 18, e) 30
+Ans: C
+<Question>
+
+<QText  tag='#Arithmetic#Integers'> what is the greatest of 3 consecutive integers whose sum is 39? </QText>
+<Option> 11 </Option>
+<Option   > 12 </Option>
+<Option  > 13 </Option>
+<Option correct = "1"> 14 </Option>
+<Option> 15 </Option>
+
+</Question>
+
+
+
+
+
+
+
+
+
+<Question>
+<QText  tag='#Algebra#Applications'>  if a particular cloth manufacturer uses 1.5 yards of a fabric to make a shirt. What is the maximum number of shirts that can be made from a fabric of length 35 yards. </QText>
+<Option > 20  </Option>
+<Option  > 21</Option>
+<Option  > 22 </Option>
+<Option> 23</Option>
+<Option  correct = "1">   24 </Option>
+</Question>
+
+
+<Question>
+<QText  tag='#Arithmetic#Percents'>  8 pints of a 30 percent solution of alcohol in water are mixed with 4 pints of a 7 percent alcohol in water solution. The percentage alcohol in the new solution is </QText>
+<Option > 22  </Option>
+<Option  > 11</Option>
+<Option correct = "1" > 29 </Option>
+<Option> 37</Option>
+<Option  >   23 </Option>
+</Question>
+
+
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearEquations'>  x + 5y = 24,  x+  y = 6. What is the value of x+3y </QText>
+<Option > 10 </Option>
+<Option   > 12 </Option>
+<Option correct = "1" > 15</Option>
+<Option > 18</Option>
+<Option > 30 </Option>
+</Question>
+
+
+
+<Question>
+<QText  tag='#DataAnalysis#Probabilty'> If the probability that a specific event can occur is .014. What is the probability that the event will not occur? </QText>
+<Option >0 </Option>
+<Option >  0.41</Option>
+<Option> 0.43</Option>
+<Option correct = "1">0.86 </Option>
+<Option>1</Option>
+</Question>
+
+
+
+<Question>
+<QText   tag='#Algebra#SolvingLinearEquations'>  If x and y satisfy the system of equations below 2x + 6y = 13 , 6x+ 2y = 19. What is the value of  x  minus y </QText>
+<Option correct = "1" > 3/2 </Option>
+<Option > 2/3 </Option>
+<Option  > 1 </Option>
+<Option > 4</Option>
+<Option > 6  </Option>
+</Question>
+
+
+
+
+
+
+<Question>
+<QText   tag='#Geometry#Circles'> A circle with the maximum possible diameter is drawn inside a square ABCD. What is the ratio of the area of the circle drawn the area of the square.  </QText>
+<Option correct = "1" > mathpi/4 </Option>
+<Option > 2mathpi/4 </Option>
+<Option > 3mathpi/4</Option>
+<Option  > mathpi</Option>
+<Image src="Questiontype/GREQuestionimages/maxareaofcircle.png"></Image>
+</Question>
+
+
+
+
+
+
+
+229) If 64/x is a positive integer, how many integer values are possible for x?
+A) 5, B) 5, C)7, D)8, E)9
+Ans: C
+230) 4^x + 4^x + 4^x + 4^x = 4 ^8, then x =
+A) 2, B) 4, C) 5, D) 6, E)7
+Ans: E
+
+
+233) x^5y^6z>0. Which of the following statements must be true?
+Indicate all such statements
+A; xyz
+B: xz
+C; y
+Ans: B
+
+
+234) If a number x is 20% of a number y. If y is 15% of number z, then x expressed in terms of z =   (Another Question Vice versa)
+A) 0.03x
+B) 0.3x
+C) 3x
+D) 30x
+E) 300x
+
+</Quiz>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+a = ? = \u1d43 (modifier letter small a)
+b = ? = \u1d47 (modifier letter small b)
+c = ? = \u1d9c (modifier letter small c)
+d = ? = \u1d48 (modifier letter small d)
+e = ? = \u1d49 (modifier letter small e)
+f = ? = \u1da0 (modifier letter small f)
+g = ? = \u1d4d (modifier letter small g)
+h = ? = \u02b0 (modifier letter small h)
+i = ? = \u2071 (superscript latin small letter i)
+j = ? = \u02b2 (modifier letter small j)
+k = ? = \u1d4f (modifier letter small k)
+l = ? = \u02e1 (modifier letter small l)
+m = ? = \u1d50 (modifier letter small m)
+n = n = \u207f (superscript latin small letter n)
+o = ? = \u1d52 (modifier letter small o)
+p = ? = \u1d56 (modifier letter small p)
+q = n/a
+r = ? = \u02b3 (modifier letter small r)
+s = ? = \u02e2 (modifier letter small s)
+t = ? = \u1d57 (modifier letter small t)
+u = ? = \u1d58 (modifier letter small u)
+v = ? = \u1d5b (modifier letter small v)
+w = ? = \u02b7 (modifier letter small w)
+x = ? = \u02e3 (modifier letter small x)
+y = ? = \u02b8 (modifier letter small y)
+z = ? = \u1dbb (modifier letter small z) -->
+

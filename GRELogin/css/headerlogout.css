@@ -1,0 +1,92 @@
+
+*{
+margin:0px;
+padding:0px;
+}
+
+@font-face
+{
+font-family:gothic;
+src: url('fonts/md_gothic11.ttf');
+     
+}
+
+body{
+
+
+
+
+}
+.enclosure{
+
+
+height:100px;
+
+
+}
+
+
+#mainNavigation{
+
+width: 960px;
+margin: 0 auto;
+zoom: 1;
+text-shadow: none;
+padding:0px;
+height:100px;
+
+}
+
+
+#mainNavigation div
+
+{
+
+width:320px;height:100px;display:inline-block;
+float:left;overflow:hidden;
+
+}
+
+#mainNavigation div h1
+{
+color:#545558;font:60px 'Calibri' , Geneva, Arial, "Arial Narrow", Verdana, sans-serif;
+margin-top:20px;
+}
+
+#mainNavigation div h1 img
+{
+width:300px;
+height:80px;
+}
+
+#mainNavigation div ul
+{
+overflow:hidden;list-style-type:none;text-decoration:none;margin-top:20px;
+
+}
+
+
+
+#mainNavigation div ul li
+{
+
+float:left;font-weight:normal;margin-top:35px;
+
+}
+
+
+#mainNavigation div ul li a
+{
+
+text-decoration:none;
+color:#000;
+font:12px verdana; 
+
+}
+
+
+#mainNavigation div ul li span
+{
+
+color:#eee;
+}

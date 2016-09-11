@@ -1,0 +1,130 @@
+<HTML>
+<head>
+<script type="text/javascript">
+var n;
+function eval1(Calc)
+{
+    n=eval(Calc.Input.value);
+    Calc.Input.value=n;
+}
+
+function f1(Calc)
+{
+    Calc.Input.value=" ";
+}
+</script>
+</head>
+<BODY bgcolor=#fff text=red>
+<center>
+<FORM NAME="Calc">
+<table border=4>
+<TR>
+<TH>
+<input type=text name=t1 style=text-align:center value=CASIO size=17 style=text-color:green>
+</TH>
+</TR>
+<TR>
+<TH>
+<INPUT TYPE="text"   NAME="Input" Size="17"> 
+</TH>
+</TR>
+<table border=4>
+                     
+<TR>
+<TD>
+<INPUT TYPE="button" NAME="seven" VALUE="  1  " 
+                OnClick="Calc.Input.value += '1'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="eight" VALUE="  2  " 
+                OnCLick="Calc.Input.value += '2'">
+</TD>
+<TD>
+
+<INPUT TYPE="button" NAME="nine"  VALUE="  3  " 
+                OnClick="Calc.Input.value += '3'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="plus"  VALUE="  + " 
+                OnClick="Calc.Input.value += ' + '">
+</TD>
+</TR>
+<TD>
+<INPUT TYPE="button" NAME="4"
+  VALUE="  4  " OnClick="Calc.Input.value += ' 4 '">
+</TD>
+<TD>
+
+<INPUT TYPE="button" NAME="four"  VALUE="  5  " 
+                OnClick="Calc.Input.value += '5'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="five"  VALUE="  6  " 
+                OnCLick="Calc.Input.value += '6'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="times" VALUE="  -  " 
+                OnClick="Calc.Input.value += ' - '">
+</TD>
+</TR>
+<TR>
+<TD>
+<INPUT TYPE="button" NAME="nine"  VALUE="  7  " 
+                OnClick="Calc.Input.value += '7'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="nine"  VALUE="  8  " 
+                OnClick="Calc.Input.value += '8'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="nine"  VALUE="  9  " 
+                OnClick="Calc.Input.value += '9'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="minus" VALUE=" X " 
+                OnClick="Calc.Input.value += ' * '">
+</TD>
+</TR>
+<TR>
+<TD>
+<INPUT TYPE="button" NAME="point" 
+    VALUE="   .  " OnClick="Calc.Input.value += '.'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="zero"  VALUE="  0  " 
+                OnClick="Calc.Input.value += '0'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="point"
+    VALUE="  c  " OnClick="f1(this.form)">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="DIV"  value="  /  "
+     OnClick="Calc.Input.value += '/'">
+
+</TD>
+</TR>
+<TR>
+<TD>
+<INPUT TYPE="button" NAME="bracket" 
+    VALUE="   (  " OnClick="Calc.Input.value += '('">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="zero"  VALUE="   )  " 
+                OnClick="Calc.Input.value += ')'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="point"
+    VALUE="  %" OnClick="Calc.Input.value += '%'">
+</TD>
+<TD>
+<INPUT TYPE="button" NAME="DIV"  value="  = "
+     OnClick="eval1(this.form)">
+
+</TD>
+</TR>
+</TABLE>
+</FORM>
+</center>
+</BODY>
+</HTML>
